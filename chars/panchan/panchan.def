@@ -1,0 +1,24 @@
+; Definition file for kfm
+; Contains all the filenames needed for the character
+
+; Player information
+[Info]
+name = "Pan Dragonball GT por Ssonic"  ;Name of character
+displayname = "Pan" ;Name of character to display
+author = "Ssonic"         ;Character author name
+pal.defaults =1,2
+
+; Files for the player
+[Files]
+cmd     = pan.cmd   ;Command set
+cns     = pan.cns   ;Constants
+st      = pan.cns   ;States
+stcommon = common1.cns ;Common states
+sprite  = pan.sff   ;Sprite
+anim    = pan.air   ;Animation
+sound   = pan.snd   ;Sound
+pal1    = original.act  ;Palettes (can have up to 12)
+pal2    = azul.act
+pal4    = preto.act
+;pal5    = kfm3.act
+;pal6    = kfm.act

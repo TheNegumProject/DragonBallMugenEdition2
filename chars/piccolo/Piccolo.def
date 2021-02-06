@@ -1,0 +1,26 @@
+; Definition file for Player
+; Contains all the filenames needed for the character
+; Template player 9X-09-12
+
+; Character information
+[Info]
+name    = "Piccolo por Ssonic"
+displayname = "Piccolo"
+pal.defaults =1,2
+
+; Files for the character
+[Files]
+cmd     = piccolo2.cmd     ;Command set
+cns     = piccolo2.cns     ;Constants
+st      = piccolo2.cns     ;States
+stcommon = common1.cns   ;Common states
+sprite  = piccolo.sff     ;Sprite
+anim    = piccolo2.air     ;Animation
+sound   = piccolo.snd     ;Sound
+pal1    = normal.act     ;Palettes
+pal2    = original2.act     ;Palettes
+;pal3    = original2.act     ;Palette
+pal4    = yellow.act
+pal5    = black.act
+;pal6    = original2.act     ;Palette
+

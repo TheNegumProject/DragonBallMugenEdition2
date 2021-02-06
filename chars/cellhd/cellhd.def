@@ -1,0 +1,24 @@
+; Definition file for Player
+; Contains all the filenames needed for the character
+; Template player 9X-09-12
+
+; Character information
+[Info]
+name    = "Cell por Ssonic"
+displayname = "Cell"
+pal.defaults =1,2
+
+; Files for the character
+[Files]
+cmd     = cellhd.cmd     ;Command set
+cns     = cellhd.cns     ;Constants
+st      = cellhd.cns     ;States
+stcommon = common1.cns   ;Common states
+sprite  = cellhd.sff     ;Sprite
+anim    = cellhd.air     ;Animation
+sound   = cellhd.snd     ;Sound
+pal1    = original.act     ;Palettes
+pal2    = original2.act
+pal3    = flamenguista.act
+pal4    = azul.act
+pal5    = marron.act

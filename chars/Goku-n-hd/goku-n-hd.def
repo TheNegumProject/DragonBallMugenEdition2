@@ -1,0 +1,28 @@
+; Goku Normal HD (1.3) def file 
+; by EmuBoarding
+; http://www.mugenow.cjb.net
+; The Great Original DBz Characters
+
+[Info]
+name    = "Goku-n-hd by EmuBoarding"
+displayname = "Goku Normal HD"
+author = "EmuBoarding-MugeNow"     
+pal.defaults =1,2
+
+[Files]
+cmd     = goku-n-hd.cmd     
+cns     = goku-n-hd.cns     
+st      = goku-n-hd.cns
+st2     = goku-n-story-intros.cns  
+stcommon = common1.cns   
+sprite  = goku-n-hd.sff      
+anim    = goku-n-hd.air      
+sound   = goku-n-hd.snd
+pal1    = goku-n-hd.act
+pal2    = goku-n-hd-2.act
+pal3    = goku-n-hd-3.act
+pal4    = goku-n-hd-4.act
+pal5    = goku-n-hd-5.act
+pal6    = goku-n-hd-6.act
+pal7    = goku-n-hd-7.act
+pal8    = goku-n-hd-8.act

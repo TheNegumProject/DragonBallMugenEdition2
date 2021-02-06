@@ -1,0 +1,26 @@
+; Definição dos arquivos do  Future Trunks
+; Todos os arquivos necessários para que ele funcione
+
+; Player information
+[Info]
+name = "Trunks por ssonic"     ;Name of character
+displayname = "Future Trunks"  ;Name of character to display
+author = "Ssonic"              ;Character author name
+pal.defaults =1,2
+
+; Files for the character
+[Files]
+cmd     = trunksE.cmd     ;Comandos
+cns     = trunksE.cns     ;Constantes
+st      = trunksE.cns     ;States
+st1     = gohan.cns       ;States de gohan helper
+stcommon= Padrao.cns      ;States padrão do mugen
+sprite  = trunksE.sff     ;Sprites 
+anim    = TrunksE.air     ;Animações
+sound   = trunksE.snd     ;Sons e vozes
+pal1    = trunks.act      ;paletas
+pal2    = blue.act
+pal3    = red.act
+pal4    = green.act
+pal5    = black.act
+

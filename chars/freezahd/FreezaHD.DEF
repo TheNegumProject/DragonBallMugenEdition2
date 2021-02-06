@@ -1,0 +1,22 @@
+; Character information
+[Info]
+name    = "Freeza by OverMind";<-- Replace with a real name
+displayname = "Freeza";<-- Replace with name to display
+author = "OverMind and _Vision"     
+pal.defaults =1,2
+
+; Files for the character
+[Files]
+cmd     = Freeza.cmd     ;Command set
+cns     = Freeza.cns     ;Constants
+st      = Freeza.cns     ;States
+stcommon = common1.cns   ;Common states
+sprite  = Freeza.sff     ;Sprite
+anim    = Freeza.air     ;Animation
+sound   = Freeza.snd     ;Sound
+pal1    = Freeza.act     ;Palettes
+pal2    = Freeza1.act     ;Palettes
+pal3    = Freeza2.act     ;Palettes
+pal4    = Freeza3.act     ;Palettes
+pal5    = Freeza4.act     ;Palettes
+pal6    = Freeza5.act     ;Palettes

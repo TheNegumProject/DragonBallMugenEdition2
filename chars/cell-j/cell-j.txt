@@ -1,0 +1,21 @@
+       | Super Motions |
+
+---Help Juniors!
+ D, DF, F, x
+
+---Kienzien
+ D, DF, F, a
+
+---kamehame ha
+ D, DB, B, F, a
+
+       | Special Motions |
+
+---head dash
+ D, DB, B, b
+
+---Ultra punch
+ D, DF, F, b
+
+---fireball
+ c

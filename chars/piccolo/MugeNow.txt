@@ -1,0 +1,78 @@
++====================================================+
+|   _    _                    _    _		     |T
+|  | \__/ |_   _  ____  ____ | \  | | ___  _     _   |H
+|  |      | | | |/ ___|/ __ \|  \ | |/ _ \| |   | |  |E
+|  | |\/| | | | | |  _|  ___/| \ \| | | | | |/\\| |  |
+|  | |  | | |_| | |_| | |___ | |\ \ | |_| | / /\  |  |B
+|  |_|  |_|\____|\____|\____||_| \__|\___/|__/  |_|  |E
+|						     |S
+|  =============--- Dragon Ball Z ---==============  |T
+|  ============--- M.U.G.E.N. PAGE ---=============  | 
+|  ====--- The Best DBZ Original Characters ---====  |O
+| 						     |R
++====================================================+I
+| Dragon Ball Z - Personagens para o M.U.G.E.N.      |G
++====================================================+I
+| NOME: Piccolo HD                                   |N
++====================================================+A
+| VERSÃO: Final 110%                                 |L
++====================================================+
+| VERSÃO do M.U.G.E.N.: 2000.06.27                   |D
++====================================================+B
+| Data da Versão: 18/09/2000                         |Z
++====================================================+
+| Produzido por Ssonic                               |C
+| Riped: Ssonic                                      |H
+| Riped Game: Dragon Ball HD (SNes)                  |A
+| Sound Riped: Ssonic                                |R
+| Edição de Imagens: Ssonic                          |A
+| Logos: EmuBoarding      		             |C
+| Converção para o novo MUGEN: Ssonic                |T
+| Emulador usado: ZSnes (The Best) www.zsnes.com     |H
++====================================================+E
+| Agradecimentos: 				     |R
+| 					             |S
+| 1ª A Bandai por ter feito os jogos da série DBZ.   |
+| 2ª A Elecbyte (c)2000 por desenvolvimento do       |
+| incomparavel M.U.G.E.N.			     |
+| 3º kuzu-bei - Pelo movimento de vôo. 		     |		     
++====================================================+
+| Nossas HP's:       				     |
+| http://www.mugenow.cjb.net - MugeNow - Home Page   |
+| htt://garounow.hpg.com.br - Link 2 for MugeNow HP  |
+| http://www.mugen11.com - Mugen Eleven - Home Page  |
+| http://www.ssonic.hpg.com.br - Ssonic Home Page    |
++====================================================+
+| E-Mail do Ssonic: pizzashaaa@bol.com.br            |
+| E-Mail da MugeNow: emuboarding@ieg.com.br          |
++====================================================+
+| Como instalar???				     |
+|						     |
+| É Fácil, apenas descompacte os arquivos para a sua |
+| pasta "CHARS" com uma nova pasta "piccolo" ex:     |
+| "chars\piccolo" depois entre na pasta "data e edite|
+| o arquivo "select.def" e em "CHARACTERS" adicione  |
+| a linha:					     |
+|						     | 
+| piccolo, stages\????.def                           |
+| ou apenas				             |
+| piccolo,        				     |
+|       	                                     |
+| Fácil não? :)			  	             | 
+|					             |
++====================================================+
+| Comentários:					     |
+|						     |
+| Não fiz mais golpes por falta de tempo, lancei essa|
+| versão por ser a melhor até agora. Adicionado      |
+| somente o "Cho bakuretsu Ken" do Hyper dimension   |
+|					             |
+| ASS: Ssonic					     |
++====================================================+
+| Veja os golpes especiais e supers em Manual.txt    |
++====================================================+
+| Mugen RulezForever!!!!! :)			     |
+| Dragon Ball's RulezForever!!! :D 		     |
++=================================+==================+
+				  |TXT By EmuBoarding|
+				  +==================+	

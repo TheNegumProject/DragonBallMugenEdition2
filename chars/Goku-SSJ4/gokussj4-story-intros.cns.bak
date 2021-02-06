@@ -1,0 +1,229 @@
+
+;intro
+[Statedef 190]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 191, 3]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 6,0
+
+[State 190, 1] ;If opponent is Vegeta's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Vegeta Normal 2 by EB"
+trigger2 = P4Name = "Vegeta Normal 2 by EB"
+trigger3 = P2Name = "Vegeta Super Sayjin 4 by EB and BS"
+trigger4 = P4Name = "Vegeta Super Sayjin 4 by EB and BS"
+trigger5 = P2Name = "vegeta-n-3 by EmuBoarding"
+trigger6 = P4Name = "vegeta-n-3 by EmuBoarding"
+trigger7 = P2Name = "Vegeta by OverMind"
+trigger8 = P4Name = "Vegeta by OverMind"
+value = 191
+
+[State 190, 1] ;If opponent is Kurilin
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Kuririn by EmuBoarding"
+trigger2 = P4Name = "Kuririn by EmuBoarding"
+value = 194
+
+[State 190, 1] ;If opponent is Freeza's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "N-Trunks by EmuBoarding"
+trigger2 = P4Name = "N-Trunks by EmuBoarding"
+value = 192
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 199
+facing = 1
+pos = 10,65
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 320
+value = 0
+ctrl = 0
+
+;----------------------------------------------------------
+
+;Intro contra o Vegeta's
+[Statedef 191]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,500]
+flag = intro
+
+[State 191, 3]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 6,0
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 191
+facing = 1
+pos = 10,65
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 3
+trigger2 = AnimElem = 5
+value = 190, 190
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 999
+value = 0
+ctrl = 0
+
+;-----------------------------------------------------------
+
+;Intro contra o Goku's
+[Statedef 193]
+type = S
+ctrl = 0
+anim = 198
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 193
+facing = 1
+pos = 10,65
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 3
+trigger2 = AnimElem = 5
+value = 190, 190
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;------------------------------------------------------------
+
+;Intro contra o Trunk's
+[Statedef 192]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,900]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 192
+facing = 1
+pos = 10,65
+postype = left
+sprpriority = 1;-2
+bindtime = 900
+ownpal = 1
+supermove = 1
+removetime = 900
+
+[State 191, 3]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 6,0
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 3
+trigger2 = AnimElem = 5
+value = 190, 190
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;----------------------------------------------------
+
+;Intro contra o Kurilin
+[Statedef 194]
+type = S
+ctrl = 0
+anim = 198
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,300]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 194
+facing = 1
+pos = 10,65
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 3
+trigger2 = AnimElem = 5
+value = 190, 190
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0

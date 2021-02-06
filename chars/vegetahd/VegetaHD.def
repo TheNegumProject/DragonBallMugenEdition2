@@ -1,0 +1,26 @@
+[Info]
+name= "Vegeta by OverMind"
+DisplayName="Majin Vegeta"
+author = "OverMind"     
+pal.defaults =1,2
+
+[Files]
+cmd=vegetahd.cmd
+cns=vegetahd.cns
+st=vegetahd.cns
+stcommon=common1.cns
+sprite=vegetahd.sff
+anim=vegetahd.air
+sound=vegetahd.snd
+pal1=vegetahd.act
+pal2=vegetahd1.act
+pal3=vegetahd2.act
+pal4=vegetahd3.act
+pal5=vegetahd4.act
+pal6=vegetahd5.act
+pal7=vegetahd6.act
+pal8=vegetahd7.act
+pal9=vegetahd8.act
+pal10=vegetahd9.act
+pal11=vegetahd10.act
+pal12=vegetahd11.act

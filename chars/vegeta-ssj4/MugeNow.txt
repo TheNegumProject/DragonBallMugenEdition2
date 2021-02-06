@@ -1,0 +1,204 @@
++====================================================+
+|   _    _                    _    _		     |T
+|  | \__/ |_   _  ____  ____ | \  | | ___  _     _   |H
+|  |      | | | |/ ___|/ __ \|  \ | |/ _ \| |   | |  |E
+|  | |\/| | | | | |  _|  ___/| \ \| | | | | |/\\| |  |
+|  | |  | | |_| | |_| | |___ | |\ \ | |_| | / /\  |  |G
+|  |_|  |_|\____|\____|\____||_| \__|\___/|__/  |_|  |R
+|						     |E
+|  =============--- Dragon Ball Z ---==============  |A
+|  ============--- M.U.G.E.N. PAGE ---=============  |T
+|  ====-- The Great Original DBZ Characters --=====  | 
+| 						     |O
++====================================================+R
+| Dragon Ball Z - Personagens para o M.U.G.E.N.      |I
++====================================================+G
+| NOME: Vegeta Super Sayjin 4                        |I
++====================================================+N
+| VERSÃO: 1.1 - 94%                                  |A
++====================================================+L
+| VERSÃO do M.U.G.E.N.: 2000.06.27                   | 
++====================================================+D
+| Data da Versão: 20 de Agosto de 2000               |B
++====================================================+Z
+| Produzido por EmuBoarding                          |
+| Riped: Black_Spider                                |C
+| Edit Sprites: Black_Spider                         |H
+| Edit New Sprites: Black_Spider and EmuBoarding     |A
+| Riped Game: Dragon Ball Z Fighting Game 2 (Vegeta) |R
+| Sound Riped: EmuBoarding                           |A
+| Edição de Imagens: EmuBoarding                     |C
+| Logos: EmuBoarding    		             |T
+| Converção para o novo MUGEN: EmuBoarding           |E
+| Emulador usado: ZSNES www.zsnes.com (The Best)     |R
++====================================================+S
+| Agradecimentos: 				     |
+| 					             |
+| Especial: Ao MR_Karai por me falar sobre a falta   |
+| dos novos sprites requiridos pelo mugen!!! :)      |
+| 1º Ao Black_Spider por ter tido a idéia e ter      |H
+| feito esse grande trabalho! Valeu cara!!! :)       |T
+| 2ª A Bandai por ter feito os jogos da série DBZ.   |T
+| 3ª A Elecbyte (c)2000 por desenvolvimento do       |P
+| incomparavel M.U.G.E.N.			     |:
+| 4º kuzu-bei - Pelo movimento de vôo. 		     |\
+| 5º Moyashi - Pelo belo Magin Vegeta, da onde tirei |\
+| os kamehame-ha's da vida. 			     |G
+| 6º Ssonic - por me ajudar com vários bugs! :)      |O
+| 7º Pra galera da MUGEN Eleven e do canal #mugen.   |.		     
+| 8º Pra toda galera da MugeNow!!!!!!!! :)           |T
++====================================================+O
+| Nossas HP's:       				     |\
+| http://www.mugenow.cjb.net - MugeNow - Home Page   |M
+| http://go.to/mugenow - MugeNow - 2º Home Page      |U
+| http://www.mugen11.cjb.net - Mugen Eleven - HP     |G
++====================================================+E
+| E-Mail da MugeNow: emuboarding@ieg.com.br          |N
++====================================================+O
+| Como instalar???				     |W
+|						     |
+| É Fácil, apenas descompacte os arquivos para a sua |
+| pasta "CHARS"!!! ex: "chars\vegeta-ssj4" O proprio |
+| ZIP-File vai criar a pasta vegeta-ssj4!!! Depois   |
+| entre na pasta "DATA" e edite o arquivo            |
+| "select.def" com o Not Pad do Windows e em baixo   |
+| de "[CHARACTERS]" adicione a linha:  	             |
+|						     | 
+| vegeta-ssj4, stages\????.def                       |
+|                                                    |
+| ou apenas				             |
+|                                                    |
+| vegeta-ssj4,      		                     |
+|       	                                     |
+| Fácil não? :)			  	             |
+| Se tiver duvidas mende-nos um e-mail! :)           | 
++====================================================+
+| Golpes do Vegeta Super Sayjin 4: 		     |
++""""""""""""""""""""""""""""""""""""""""""""""""""""+
+| CORES DA ROUPA: Quando for escolher o personagem   |
+| aperte os seguintes botões para ter as seguintes   |
+| roupas.      			                     |
+|						     |
+| Botão A: Roupa Azul	                             |		
+| Botão B: Roupa Laranja			     |
+| Botão C: Roupa Vermelha			     |
+| Botão X: Roupa Preta 			             |
++""""""""""""""""""""""""""""""""""""""""""""""""""""+	
+| SIGLAS:					     |		
+| 						     |
+| B   = Baixo					     |
+| DIE = Diagonal Inferior Esquerda		     |
+| DID = Diagonal Inferior Direita		     |
+| E   = Esquerda			             |
+| D   = Direita					     |
+| C   = Cima					     |
+| DSE = Diagonal Superior Esquerda		     |
+| DSD = Diagonal Superior Direita		     |
+|						     |
+| * Golpes que podem ser executados durante o vôo.   |
+| **Golpes que só podem ser executados durante o vôo.|
+|						     |
++""""""""""""""""""""""""""""""""""""""""""""""""""""+ 
+| GOLPES NORMAIS:				     |
+|						     |
+| *Soco Fraco: a     				     |
+| *Soco Médio: b        		             |
+| *Soco Forte: c   				     |
+| *Chute Fraco: x    				     |
+| *Chute Medio: y   				     |
+| *Chute Forte: z  	                             |
+|   				                     | 
+| *Carregar Power Bar: a + b     		     |
+| *Anular Magias: y + x  			     |
+| *Voar: a + x                                       |
+| *Corrida pra Frente: D, D                          |
+| *Corrida pra Traz: E, E                            |
+| **Corrida pra Cima: C, C 			     |
+| **Corrida pra Baixo: B, B			     |
+| Balão: (Perto do adversario aperte) a              |
+|						     |
++""""""""""""""""""""""""""""""""""""""""""""""""""""+ 
+| ATAQUES ESPECIAIS:			             |
+|  						     |
+| *Tele-Transporte F1: B, DID, D, DID, B + a  	     |
+|						     |
+| *Tele-Transporte F2: B, DIE, E, DIE, B + a         |
+|					             |
+| *Tele-Transporte T1: B, DID, D, DID, B + b         |
+|						     |
+| *Tele-Transporte T2: B, DIE, E, DIE, B + b         |
+|						     |
+| *Triple Fire Balls Sequence: B, DID, D, + z        |
+|						     |
+| *Triple Fire Balls Together: B, DIE, E, + z        |
+|						     |
+| *Joelhada: B, DID, D, + x                          |
+|						     |
+| *Joelhada Seguida de Chute: B, DIE, E, + x         |
+|                     				     |
+| *Cutuvelada: B, DID, D, + y                        |
+|				                     |
+| *Cutuvelada Seguida de Soco: B, DIE, E, + y        |
+|   					             |
+| *Right FireBall: B, DID, D + c	             |
+|						     |
+| *Left FireBall: B, DIE, E + c			     |
+|					             |
+| *Sequence: B, DID, D, x + y			     |
+|				                     |
+| Bakuhatsu-Ha: B, DIE, E, + a                       |
+|					             |
+| *Super Soco: B, DID, D, + a ou b ( Usa 5% da barra |
+| de Super)                                          |
+|						     |
+| *Super Air Kick: (Durante o pulo) D, DID, D + x,   |
+|  y ou z					     |
+|					             |
++""""""""""""""""""""""""""""""""""""""""""""""""""""+
+| HYPER ATAQUES: (Level é o nivél em que a barra de  |
+| Super tem que estar)		        	     |
+|						     |
+| *Light Final Flash: B, DIE, E, D, + a (Level 1)    |
+|
+| *Medium Final Flash: B, DIE, E, D, + b (Level 2)   |
+|
+| *Super Final Flash: B, DIE, E, D, + c (Level 3)    |
+|
+| *Big Bang Atack: B, DIE, E, D, + x (Level 2)       |
+| OBS: Segura para cima ou para baixo pra escolher   |
+| a direção da bola de energia!!! :)                 |
+|
+| *Kenzien:  B, DIE, E, D, + y (Level 2)             |
+|
+| *Energy Shower: B, DIE, E, D, + z (Level 1)        |
+|				                     |
++""""""""""""""""""""""""""""""""""""""""""""""""""""+
+| METEOR ATAQUES: (Level é o nivél em que a barra de |
+| Super tem que estar)				     |
+|						     |
+| Meteor Atack: B, E, B, E, a + b (Level 1)          |
+| Obs: Seu Life tem que estar no Final!!!            |
+|						     |
+| Super Meteor Atack: B, E, B, E, x + y (Level 2)    |
+| Obs: Seu Life tem que estar no Final!!!	     |		
+|					             |
++====================================================+
+| Proxima versão:				     |
+|				                     |
+| Arrumar o resto das boxes!!! :)                    |
++====================================================+
+| Comentários:					     |
+|						     |
+| Sem nenhuma duvida meu melhor char! :) Aproveitem! |
+| Arrumei muita coisa para que fique cada vez melhor.|
++====================================================+
+| Mugen Rulez! :)				     |
+| Dragon Ball's RulezForever!!! :D 		     |
++====================================================+
+| ONDE VER DRAGON BALL Z NA TV???		     |
+|						     |
+| BAND: 11:30 e às 15:30			     |
+| CARTOON NETWORK: 18:30 e reprise 00:30             |
++=================================+==================+
+				  |TXT By EmuBoarding|
+				  +==================+	

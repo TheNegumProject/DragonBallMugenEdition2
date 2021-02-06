@@ -1,0 +1,16 @@
+[Info]
+name="Goten by Alunfl@"
+DisplayName="Goten"
+pal.defaults =1,2
+
+[Files]
+cmd=goten.cmd
+cns=goten.cns
+st=goten.cns
+stcommon=common1.cns
+sprite=goten.sff
+anim=goten.air
+pal1=goten.act
+pal2=goten1.act
+sound=goten.snd
+

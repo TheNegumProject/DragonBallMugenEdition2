@@ -1,0 +1,401 @@
+===LEIA-ME===
+
+Majin Vegeta
+
+Leia-Me em português
+
+===ÍNDICE===
+
+1)Ficha
+2)Desenvolvimento
+3)História do Char
+4)Créditos
+5)Arquivos
+6)Instalação
+7)O Que falta
+8)O Que tem
+9)Novidades
+10)Biografia
+11)Modos
+12)Comandos
+13)Final
+14)Agradecimentos
+15)Conclusão
+
+===FICHA===
+
+Nome : Majin Vegeta
+Jogo : Dragonball Z Hyper Dimension
+Versão do Mugen : 2000.7.31
+Versão : 2.0
+Completo : 90%
+Data de Lançamento : 01/10/2000
+
+===DESENVOLVIMENTO===
+
+Ripagem de Imagens : OverMind
+Ripagem de Sons : OverMind
+Conversão para MUGEN : OverMind
+Emulador : Zsnes
+Testadores : Dayerat e Ssonic
+
+===HISTÓRIA DO CHAR===
+
+
+===CRÉDITOS===
+
+Author: OverMInd
+Site: http://overmindbr.hypermart.net
+E-mail: overmind@brfree.com.br
+
+
+===ARQUIVOS===
+
+VegetaHd.def
+VegetaHd.air
+VegetaHd.cmd
+VegetaHd.cns
+VegetaHd.sff
+VegetaHd.snd
+VegetaHd.act
+VegetaHd1.act
+VegetaHd2.act
+VegetaHd3.act
+VegetaHd4.act
+VegetaHd5.act
+VegetaHd6.act
+VegetaHd7.act
+VegetaHd8.act
+VegetaHd9.act
+VegetaHd10.act
+VegetaHd11.act
+
+===INSTALAÇÃO===
+
+Para colocar Majin Vegeta no seu M.U.G.E.N. primeiro tenha certeza de que há espaço
+no seu System.def abrindo-o com um editor de texto(como Wordpad)e aumentando
+o número de Columns e Rows se necessário.
+Se já tiver espaço,bom.
+Mande todos os arquivos para uma pasta de nome VegetaHD e coloque-a na pasta
+CHARS de seu M.U.G.E.N.
+Agora, entre no arquivo Select.def e procure por uma parte com [Characters]
+escrito.
+Logo embaixo escreva:
+VegetaHD (se quiser que ele esteja no seu jogo)
+VegetaHD, stages/estagio.def (se quiser que ele tenha uma fase própria no Arcade
+Mode)
+VegetaHD, stages/estagio.def, music=sound/nomedamusica.def (se quiser que a fase
+do modo Arcade tenha música própria)
+Se quiser que ele seja o último chefe de seu jogo, acrescente , order=3 logo
+após a música ou o estágio(vindo em últmo lugar),senão, coloque :, order=2
+para que esteja num nível anterior a último chefe.
+
+===O QUE FALTA===
+
+Modo Ssj4, talvez modo normal, arrumar sparks e outras coisas.
+
+===O QUE TEM===
+
+.2 modos de Contra-ataque
+.15 especiais
+.5 Supers
+.Zanzoken
+.12 Paletas
+.Carregamento de Força
+.Counter Attack
+.Super Pulo
+
+
+===NOVIDADES===
+
+.Suicide Bomb
+.Final Flash Nivel 1
+.Energy Shower
+.Counter-Attacks
+.Nova Imagem Grande
+.Helpers
+.Novas Paletas
+.Power Charge
+.Novo Ki Charge
+.Novos Comandos
+
+
+===VEGETA===
+
+Raça : Saiyajin
+Familiares : Pai(Rei Vegeta)/Filhos(Bra e Trunks)/Esposa(Bulma)
+Olhos : Pretos
+Cabelo : Preto
+Séries : Dragonball Z, Dragonball GT
+Técnicas : 
+Kikou Ha
+Renzoku Energy Dan
+Bukujuutsu
+Zanzoken
+Big Bang Attack
+Final Flash
+Suicide Bomb
+Galick Ho
+Kienzan
+Eriito
+SSJ
+SSJ Dai ni Dankai
+SSJ2
+Bomb
+Bakuhatsu Ha
+Final Shrine
+Energy Smash
+Oozaru
+História : 
+Nasceu no planeta Vegeta.Seu pai era o rei dos Saiyajins, raça a qual
+pertence.Por ser da família real, tinha grande poder e era orgulhoso.Ao 5
+anos podia matar um Saibaman, que tinha poderes quase iguais aos de um
+saiyajin adulto comum.Seu guarda/babá era Nappa que se tornou seu parceiro em
+várias lutas assim como Raditz.
+Por ser Saiyajin,trabalhava para Freeza e depois que seu planeta foi
+destruído por esse, só sobrou Raditz,Nappa e ele.Dos servos de Freeza era um
+dos únicos saiyajins e era diminuído por isso.Como era orgulhoso do seu
+poder, não gostava nem um pouco e planejava um modo de se vingar dessas
+pessoas,apesar de não ter poder suficiente para derrotá-los.
+Um dia, Raditz foi em busca de seu irmão na Terra para que ele se juntasse
+a ele,Vegeta e Nappa na destruição de planetas mas foi derrotado,porém, em
+seus minutos finais, chamou Vegeta e Nappa para o vingarem destruindo o
+planeta.1 Ano se passa e os saiyajins chegam na Terra e se deparam com os
+guerreiros Z que se prepararam para essa batalha.Ninguém podia com Vegeta e
+Nappa, muitos morreram.Até que surge Goku ou Kakarotto(seu nome Saiyajin),que
+se mostra mais forte que ele ferindo também seu orgulho pois se achava o mais
+forte dos saiyajins e Goku mostrou que não era bem assim.Vegeta consegue
+fugir até a base de Freeza onde se recupera jurando vingança às pessoas que o
+derrotaram.Quando foi à Terra, tinha como objetivo pegar as Dragonballs e se
+tornar imortal para derrotar Freeza.Soube da existência das esferas por
+Raditz.Ao se recuperar da batalha soube que Freeza foi à Namek para pegar as
+esferas desse planeta para também se tornar imortal.Vegeta, que não queria
+isso, foi atrás dele para não deixar que isso aconteça e de quebra também se
+tornar imortal.Kuririn e Gohan também foram a esse planeta para pegar as
+esferas de lá,mas queriam reviver seus amigos mortos na batalha de Vegeta.
+Após vários acontecimentos,Goku também vai a esse lugar,todos aumentam seus
+poderes e enfrentam Freeza.Vegeta morre nessa batalha com seu orgulho ferido.
+Goku vira um SSJ,o lendário guerreiro que Vegeta sempre quis ser e derrota
+Freeza.Vegeta é revivido e após saber que Goku está vivo, sai atrás dele que
+permanceu longe por 1 ano no espaço mas não teve êxito.
+Freeza vai à Terra 1 ano depois e ninguém podia enfrentá-lo mas um jovem
+aparece do nada e o mata.Para a surpresa de todos, era um Saiyajin e podia
+virar um SSJ como Goku deixando Vegeta confuso.Ele avisa que 2 andróides
+aparecerão em 3 anos e matarão todos.Todos decidem treinar para derrotá-los,
+Vegeta porém, durante seu treinamento não pensa em outra coisa senão superar
+Goku.3 Anos se passam e Vegeta mostra que virou SSJ e derrota um dos
+andróides com facilidade.Sua raiva necessária para virar SSJ se mostrou
+quando viu que não poderia superar seu rival.
+O outro andróide foge e libera outros andróides.Vegeta luta com um deles,mas
+perde e seu orgulho se quebra novamente.
+Quando Goku se recupera de um doença, avisa a Vegeta de um lugar em que podia
+treinar o equivalente a 1 ano em apenas 1 dia.
+Vegeta treina com seu filho Trunks e sai mais forte que nunca.Ele então luta
+com Cell, um andróide do futuro e ganha, mas deixa que ele chegue a um nível
+maior e perde a luta.Após várias batalhas,Cell é derrotado e Vegeta pára de
+lutar.7 anos depois, ocorre um torneio de artes marciais e vegeta decide
+entrar pois Goku,que morreu na batalha de Cell,ganhou 1 dia de vida e estará
+nesse torneio.Vegeta,que treinou duro nesses 7 anos, queria lutar contra
+Goku.Uma ameaça é avisada no meio do torneio e os guerreiros Z vão tentar
+impedí-la.Alguas lutas se passam e Goku se mostra mais forte que Vegeta.
+Mas,Vegeta vê que, através do domínio de um feiticeiro malígno, pode aumentar
+suas forças e assim,se igualar a Goku e lutar com ele.Vegeta se deixa dominar
+s tornando Majin Vegeta(forma atual do personagem)e chama Goku para briga.
+Havendo recusa,mata humanos como intuito e então ele decide lutar.Lutando
+contra o domínio do feiticeiro com seu orgulho, lutou com Goku, mas notou que
+este não estava seno sério e resolveu matar o monstro que estava dando o
+preocupações e impedindo-o de lutar com atenção.Vegeta tapeia Goku e parte
+sozinho para lutar com o demônio,porém não consegue derrotã-lo e se mata na
+esperança de que pelo menos possa salvar seu filho, sua esposa e amigos,assim
+como "Kakarotto",mas morre em vão, e dessa vez, não poderá ser ressucitado
+pois é sua 2a morte.
+Depois de um tempo,Goku vira SSJ3 mostrando seu poder oculto deixando Vegeta
+com raiva dele pois não o falou desse nível.Vegeta ganha 1 dia de vida na
+Terra pois o demônio(Boo)era muito forte e estava matando todos dando
+trabalha a Enma-Daioh,quem cuida do mundo dos mortos.Vegeta se une a Goku que
+havia sido revivido por um deus se tornando Vegetto.Assim consegue derrotar
+Boo,mas se é engolido pelo monstro perdendo a fusão e Vegeta quebra os
+brincos com qual é realizada a fusão pois não gostou da experiência.
+Depois de salvar seus amigos que estavam presos dentro de Boo, ele muda de
+forma e luta com Goku e Vegeta em outro planeta após destruir a Terra.
+Vendo a luta de Goku, com poder muito maior que o seu e Boo, finalmente
+adimite a superioride de seu rival e elogia sua maneira de lutar.
+Após derrotarem Boo, tudo se acalma.20 Anos depois,uma nova ameaça surge e
+vegeta é dominado por Bebi se tornando Bebi Vegeta que luta com Goku tendo
+grande vantagem,mas é derrotado.Novamente um outro perigo surge e Vegeta,com
+ajuda de uma máquina contruída por Bulma, se torna SSJ4 e vai ajudar Goku a
+derrotar o monstro.Até uma nova fusão entre os 2 foi feita,formando Gogeta.
+Goku derrotou o vilão e nisso acaba a série de Dragonball.
+O personagem é baseado na parte em que enfrentam Boo, em que Vegeta deixa ser
+dominado por um feiticeiro para derrotar Goku.Quando é dominado,surge um M em
+sua testa.
+
+ 
+===MODOS DE JOGO===
+
+1)Normal
+2)Fly
+
+------
+NORMAL
+------
+Sem muitas explicações, Vegeta pula, anda, se movimenta normalmente em sua
+velocidade e força original.Seu poder cresce com o tempo
+---
+FLY
+---
+Comando : a+b
+Vegeta fica voando,podendo se movimentar pela tela inteira.Se fizer o comando
+de vôo no já estando nele, Vegeta parará de voar e cairá no chão.
+
+===COMANDOS===
+
+-------
+Legenda
+-------
+
+F - Frente
+T - Trás
+B - Baixo
+C - Cima
+
+-------
+Básicos
+-------
+
+A - Soco 
+B - Soco Forte
+X - Chute 
+Y - Chute Forte
+
+------
+Extras
+------
+
+.DASH - F,F/B,B
+Vegeta corre para frente ou para trás
+
+.AIR DASH - F,F/B,B no ar
+Vegeta faz a mesma coisa, só que no ar
+
+.INSTANT FALL - D,D no ar
+Vegeta cai repentinamente
+
+.HIGH JUMP - D,U
+Um pulo muito alto na vertical,mas que pode ser redirecionado
+
+.LONG JUMP TOWARDS - D,UF
+Um pulo longo(diagonal) para frente
+
+.LONG JUMP BACKWARDS - D,UB
+O mesmo que o anterior,porém este é para trás
+
+.AIR JUMP - Um pulo comum no ar em qualquer direção
+Um pulo aéreo
+
+.ZANZOKEN BACKWARDS - a+x
+Vegeta se move rapidamente para trás dando uma impressão de teleporte.
+
+.ZANZOKEN TOWARDS - b+y
+O meso que o Zanzoken anterior,porém Vegeta se move para frente.
+
+-------------
+CARREGAMENTOS
+-------------
+
+.KI CHARGE - start
+Vegeta carrega seu Ki.
+
+--------------------
+MOVIMENTOS ESPECIAIS
+--------------------
+
+.LEFT KIKOU HA - B, BF, F, a
+Magia básica.
+
+.RIGHT KIKOU HA - B, BF, F, b
+Básica mais forte e rápida
+
+.RENZOKU ENERGY DAN - T, B, BT, T, a
+Sequência de 5 magias
+
+.AIR RENZOKU ENERGY DAN - B, BT, T, a (AR)
+Sequência vertical de magias.São 2 ao invés de 5.
+
+.RISING KNEE - F, B, BF, F, y
+Joelhada para o ar.
+
+.BIG BANG ATTACK - B, BT, T, x
+Magia para o alto ou baixo(ar).
+
+.BAKUHATSU HA - B, BT, T, y
+Magia proveniente do chão.Age como Geyser.
+
+.SLIDE KICK - B, BF, F, x
+Vegeta desliza pelo chão dando uma rasteira.
+
+.KI BURN - B, BT, T, b
+Vegta queima seu Ki de modo que cause dano.
+
+.ELBOW ATTACK - x+y
+Vegeta vai para o fundo da tela e volta com uma joelhada.
+
+.DIRECT ELBOW - F, B, BF, F, x
+Vegeta corre com um Dash pra frente.
+
+.SWAY ELBOW - T, B, BT, T, y
+Vegeta corre pra trás e volta com um Dash.
+
+.BACK ELBOW - T, B, BT, T, x
+Vegeta corre para trás do inimigo e ataca com uma cotovelada.
+
+----------------------------
+CONTRA-ATAQUES e RECUPERAÇÃO
+----------------------------
+
+*Devem ser feitos após receber um golpe
+
+.AIR COUNTER ATTACK - a+b (ar)
+Vegeta dá um Ki Release.
+
+.COUNTER HIT - a+b
+Vegeta ataca o oponente (chão).
+
+-----------
+SUPER MOVES
+-----------
+
+.BIG BANG ATTACK - B, BT, T, F, b
+Level 1
+Vegeta solta uma bola de energia grande e rápida que causa uma explosão.
+
+.SUPER RENZOKU ENERGY DAN - B, BT, T, F, a
+-Level 1/2
+Uma sequência muito rápida de 50 magias.
+
+.FINAL FLASH - B, BT, T, F, x 
+-Level 1 ou 2
+Uma magia grande e contínua que sai da palma de ambas as mãos de Vegeta
+
+.GYARRIC GUN FIRE - B, BT, T, F, y
+-Level 2/2
+Vegeta joga o adversário no chão,solta várias magias e termina com uma bola
+de energia gigante das mãos.
+
+.SUICIDE BOMB - B, BF, F, B, BF, F, a+b
+-Level 3
+Vegeta se suicida.Só sobrevive se tiver 1200 de vida,senão dá Double K.O.
+
+===AGRADECIMENTOS===
+
+*Elecbyte
+*Bandai 
+*Ssonic - Por ter me ajudado me ensinando algumas coisas :)
+*Dayerat - O cara deu a maiorias da ideias alem disso fez esse modelo de txt e editado as fotos
+*EmuBoardind - Pela foto da tela de versus.
+*Lucifer - Pela foto do super :)
+*Pessoal do #mugen da BrasNet
+
+===CONCLUSÃO===
+
+			FIM

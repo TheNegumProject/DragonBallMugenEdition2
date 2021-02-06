@@ -1,0 +1,119 @@
+-----------------------------------------------------------------------
+Pan Chan Dragon Ball GT 50% por Ssonic
+-----------------------------------------------------------------------
+
+* comentários
+* novidades
+* próximas Atualizações
+* profiles
+* siglas e golpes
+* especiais
+* supers
+* contato
+* créditos
+
+-----------------------------------------------------------------------
+                             Comentários
+-----------------------------------------------------------------------
+
+Esse Char não existe em nenhum jogo, todos sprites foram feitos em base
+na androide 18 da DBZ 2 e outros totalmente editados a mão.
+
+-----------------------------------------------------------------------
+                             Novidades
+-----------------------------------------------------------------------
+
+* intro
+* win pose
+* Zanzoken
+* right shot 
+* left shot
+* KI power Up
+* 3 super moves
+* vozes do Anime
+* vários sons 
+* 3 paletas
+
+-----------------------------------------------------------------------
+                        Próximas Atualizações
+-----------------------------------------------------------------------
+
+* novos golpes especiais
+* novos super moves
+* intros especiais
+* várias win poses
+* + vozes 
+
+-----------------------------------------------------------------------
+                             Profiles
+-----------------------------------------------------------------------
+Fighting Style: 
+Birthdate: 
+Birthplace: 
+Blood Type: 
+Height: cm
+Weight: kg	Hobby: 
+Favorite Food: 
+Favorite Sport: 
+Important Object:          
+Hates: 
+
+-----------------------------------------------------------------------
+                          Siglas e Golpes
+-----------------------------------------------------------------------
+
+      UB  U  UF          Z =       Y=soco Forte       X=soco fraco 
+        \ | /        
+     B ---o--- F 
+        / | \            C =       B=Chute forte       A=chute fraco
+      DB  D  DF
+
+Start = carregar KI
+
+-----------------------------------------------------------------------
+                             Especiais
+-----------------------------------------------------------------------
+
+ KI power Up = segure Start ( hold Start)
+
+ Zanzoken = (a+b) 
+
+ Left e Right shot = D, DF, F + (y) ou (x)
+
+ 
+-----------------------------------------------------------------------
+                               Supers
+-----------------------------------------------------------------------
+
+(Level 1) supers 
+
+ Kame Hame Ha = D, DB, B, F + (y) ou (x)
+
+ Double Energy Dan Shot = D, DF, F, B + (y) ou (x)
+
+ Multiple kaiko Ha = D, DF, F 2X + (y) ou (x)
+
+-----------------------------------------------------------------------
+                              Contato
+-----------------------------------------------------------------------
+
+Se encotrarem Bugs me avisem para que eu possa corrigir.
+
+Email - pizzashaaa@bol.com.br ou fale comigo nos canais 
+
+#MUGEN, #mugenmania, #mugen4ever da Brasnet. 
+
+Sites - www.mugen11.cjb.net -Forum
+        mugenow.cjb.net - DBZ original chars
+        www.ssonic.hpg.com.br is mine :p 
+        
+
+-----------------------------------------------------------------------
+                              Créditos
+-----------------------------------------------------------------------
+
+"Emuboarding" por me enviar alguns sons
+"as pessoas" que me enviaram vários e-mails me dando idéias sobre a Pan
+"Overmind" pela foto grande da tela select, e por fazer o novo código de
+Final
+"Todos do Canal" #Mugen da brasnet e mugeneleven Forum

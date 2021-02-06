@@ -1,0 +1,168 @@
+;Select.def for Dragon Ball Z - M.U.G.E.N. Edition 2
+;MugeNow - http://go.to/mugenow
+;by EmuBoarding
+
+[CHARACTERS]
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+FreezaHD,STAGES\N-NAMEK-HD.DEF,ORDER=2;
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+cellhd,STAGES\CELL_GAME.DEF,ORDER=3;
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+mrboohd,STAGES\MAJIN.DEF,ORDER=4;
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!) 
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+randomselect;x;
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+x; --> (Não Modifique!!!)(It doesn't Modify!!!)
+Goku-SSJ2,random,ORDER=1;
+Goku-n-hd,random,ORDER=1;
+son-gohan,random,ORDER=1;
+m-gohan,random,ORDER=1;
+yamcha,random,ORDER=1;
+piccolo,random,ORDER=1;
+n-trunks,random,ORDER=1;
+trunkse,random,ORDER=1;
+Chibi Trunks,random,ORDER=1;
+Vegeta Normal 2,random,ORDER=1;
+vegetahd,random,ORDER=1;
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+kuririn,random,ORDER=1;
+and-18,random,ORDER=1;
+kaioshin,random,ORDER=1;
+satan-son,random,ORDER=1;
+kame,random,ORDER=1;
+cell-j,random,ORDER=1;
+recoom,random,ORDER=1;
+raditz,random,ORDER=1;
+zarbom,random,ORDER=1;
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+x; --> (Coloque seu novo Personagem aqui)(Place your new character here)
+
+goku-ssj4,random,ORDER=5; -->(1º Personagem Screto)(1º Secret Character)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+panchan,random,ORDER=1; -->(2º Personagem Screto)(1º Secret Character)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+vegeta-ssj4,random,ORDER=5; -->(3º Personagem Screto)(1º Secret Character)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+broli,stages\rocks.def,ORDER=6; -->(4º Personagem Screto)(1º Secret Character)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+x; --> (Coloque seu novo Personagem Secreto Aqui)(Place your new Secret character Here)
+
+[EXTRASTAGES]
+STAGES\PRAIA.DEF;Beach
+STAGES\CAMSER.DEF;Caminho da Serpente
+STAGES\CAMPO-DES-DBZ1.DEF;Campo de batalha - destruido
+STAGES\CAMPONOR-DBZ1.DEF;Campo de batalha - Normal
+STAGES\CAMPO2-DBZ1.DEF;Campo de batalha 2
+STAGES\Jogocell.def;Cell Game DBZ-3
+STAGES\TERRA-D.DEF;Earth in the daytime
+STAGES\TERRAHD.DEF;Earth in the Daytime - HD
+STAGES\TERRA-T-HD.DEF;Earth Sunset - HD
+STAGES\TERRA-T.DEF;Earth the Afternoon
+STAGES\TERRA3.DEF;Earth the Night
+STAGES\TERRA-N-HD.DEF;Earth the Night - HD
+STAGES\ESTRADA-DBZ1.DEF;Estrada
+STAGES\JUNGLE-DB.DEF;Jungle
+STAGES\JUNGLE-DBZ2.DEF;Jungle 2
+STAGES\JUNGLE-DBZ2-T.DEF;Jungle 2 Sunset
+STAGES\LOCALDETREINO-DBZ1.DEF;Local de treinamento
+STAGES\MAJIN-EX.DEF;Majin Temple Special
+STAGES\MONT.DEF;Montanhas
+STAGES\MONT2.DEF;Montanhas 2
+STAGES\MONT2-DBZ2.DEF;Montanhas 2
+STAGES\MONT2-DBZ2-NEV.DEF;Montanhas 2 - nevando
+STAGES\MONT-DBZ2-DIA.DEF;Montanhas DBZ2 dia
+STAGES\MONT-DBZ2-TARDE.DEF;Montanhas DBZ2 Tarde
+STAGES\NAMEKNOR-DBZ1.DEF;Namekusei Normal
+STAGES\NAMEK.DEF;Namekuzei
+STAGES\NAMEK2.DEF;Namekuzei Destroyed Day
+STAGES\PENHASCO.DEF;Penhasco
+STAGES\PENHASCO-D.DEF;Penhasco - dia
+STAGES\PENHASCO-T.DEF;Penhasco - tarde
+STAGES\ROCKS-VS_CELL-DIA.DEF;Rocks vs Cell (dia)
+STAGES\ROCKS-VS_CELL-DIA-NOITE.DEF;Rocks vs Cell (Noite)
+STAGES\ROCKS-VS_CELL-DIA-TARDE.DEF;Rocks vs Cell (Tarde)
+STAGES\SALA-DO-TEMPO-DBZ1.DEF;Sala do Tempo
+STAGES\ST2.DEF;Streets
+STAGES\DESERTO-DBZ2-TEMP.DEF;Tempestade de Areia
+STAGES\KAMISAMA.DEF;Temple of Kamisama (HD)
+STAGES\KAMISAMA-N.DEF;Temple of Kamisama Night
+STAGES\KAMISAMA-T.DEF;Temple of Kamisama Sunset
+STAGES\KAIO.DEF;Temple of Mr Kaio
+STAGES\BUDOUKAI-HD-N.DEF;Tenka I. Budoukai HD Night
+STAGES\BUDOUKAI-HD-N-R.DEF;Tenka I. Budoukai HD Rain Night
+STAGES\NEW-BUDOUKAI.DEF;Tenka I. Budoukai With Narrator 3
+STAGES\NEW-BUDOUKAI-HD.DEF;Tenka I. Budoukai With Narrator HD
+STAGES\BUDOUKAI-DBZ3.DEF;Tenka Ichi Budoukai 3
+STAGES\BUDOUKAI-DBZ3-T.DEF;Tenka Ichi Budoukai 3 Sunset
+STAGES\BUDOUKAI-HD.DEF;Tenka Ichi Budoukai HD - Day
+STAGES\BUDOUKAI-HD-R.DEF;Tenka Ichi Budoukai HD - Day Rain
+STAGES\BUDOUKAI-T-R-HD.DEF;Tenka Ichi Budoukai HD Rain Sunset
+STAGES\BUDOUKAI-T-HD.DEF;Tenka Ichi Budoukai HD Sunset
+STAGES\BUDOU-DBZ2-DIA.DEF;Tenka Ichi Budoukai-DBZ2-dia
+STAGES\BUDOU-DBZ2-TARDE.DEF;Tenka Ichi Budoukai-DBZ2-tarde
+STAGES\BUDOU-DBZ3-DIA.DEF;Tenka Ichi Budoukai-DBZ3-dia
+STAGES\BUDOU-DBZ3-DIA-NAR.DEF;Tenka Ichi Budoukai-DBZ3-dia
+STAGES\TERRARR.DEF;Terra arrasada
+STAGES\TERRA-D-HD.DEF;Terra Destruida HD
+STAGES\TORRE-DE-KARIN.DEF;Torre de Karin
+
+[OPTIONS]
+ARCADE.MAXMATCHES=5,1,1,1,2,1,,,,0
+TEAM.MAXMATCHES=4,1,1,1,1,1,,,,0

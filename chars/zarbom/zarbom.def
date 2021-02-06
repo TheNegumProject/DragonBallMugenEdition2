@@ -1,0 +1,18 @@
+; Zarbom (1.2) by EmuBoarding
+; MugeNow http://www.mugenow.cjb.net
+
+[Info]
+name = "Zarbom by EmuBoarding"
+displayname = "Zarbom"
+author = "EmuBoarding-MugeNow"     
+pal.defaults =1,2
+
+[Files]
+cmd     = zarbom.cmd   
+cns     = zarbom.cns   
+st      = zarbom.cns   
+stcommon = common1.cns  
+sound   = zarbom.snd   
+sprite  = zarbom.sff   
+anim    = zarbom.air      
+pal1    = zarbom.act

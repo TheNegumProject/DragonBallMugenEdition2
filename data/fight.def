@@ -1,0 +1,467 @@
+[FILES]
+SFF=FIGHT.SFF
+SND=FIGHT.SND
+FONT1=FONT\JG.FNT
+FONT2=FONT\power2.fnt
+FONT3=FONT\NAME1.FNT
+FONT4=FONT\F-4X6.FNT
+FONT5=font/hit-num-db.fnt
+FONT6=FONT\DBZ-UB22.FNT
+FONT7=FONT\dbz-hd-fonts.fnt
+FONT9=FONT\power1.fnt
+
+
+FIGHTFX.SFF=FIGHTFX.SFF
+FIGHTFX.AIR=FIGHTFX.AIR
+COMMON.SND=COMMON.SND
+
+[Lifebar]
+;Player 1
+p1.pos   = 141,14
+p1.bg0.spr = 11,0
+p1.mid.spr = 12,0
+p1.front.spr = 13,0
+p1.range.x  = 0,-126
+
+;Player 2
+p2.pos   = 178,14
+p2.mid.spr = 12,1
+p2.front.spr = 13,1
+p2.range.x = 0,126
+
+[Simul Lifebar]
+;Player 1
+p1.pos    = 141,14
+p1.bg0.spr = 11,0 
+p1.mid.offset = 0,-1
+p1.mid.spr = 22,0
+p1.front.spr = 23,0
+p1.range.x  = 0,-126
+;Player 2
+p2.pos    = 178,14
+p2.mid.offset = 0,-1
+p2.mid.spr = 22,0
+p2.mid.facing = -1
+p2.front.offset = 0,-1
+p2.front.spr = 24,0
+p2.front.facing = -1
+p2.range.x = 0,126
+;Player 3
+p3.pos    = 141,16
+p1.mid.offset = 0,-1
+p3.mid.spr = 25,0
+p3.front.spr = 23,0
+p3.range.x  = 0,-126
+;Player 4
+p4.pos    = 178,16
+p4.mid.spr = 25,0
+p4.mid.facing = -1
+p4.front.spr = 23,0
+p4.front.facing = -1
+p4.range.x = 0,126
+
+
+[Turns Lifebar]
+;Player 1
+p1.pos   = 141,14
+p1.bg0.spr = 11,0
+p1.mid.spr = 12,0
+p1.front.spr = 13,0
+p1.range.x  = 0,-126
+
+;Player 2
+p2.pos   = 178,14
+p2.mid.spr = 12,1
+p2.front.spr = 13,1
+p2.range.x = 0,126
+;-----------------------------------------------------------
+
+[Powerbar]
+;Player 1
+p1.pos    = 140,21
+p1.bg0.anim = 30
+p1.bg1.spr = 31,0
+p1.mid.spr = 32,0
+p1.front.spr = 33,0
+p1.range.x = 0,-126
+p1.counter.offset = -109,55
+p1.counter.font = 9,0, 0
+
+
+;Player 2
+p2.pos    = 178,21
+;p2.bg0.anim = 30
+p2.bg0.facing = -1
+;p2.bg1.spr = 31,0
+p2.bg1.facing = -1
+;p2.mid.spr = 32,0
+;p2.mid.facing = -1
+p2.front.spr = 33,1
+;p2.front.facing = -1
+p2.range.x  = 0,126
+p2.counter.offset = 99,55
+p2.counter.font = 2,0, 1
+
+; --level sounds---
+level1.snd = 21,0
+level2.snd = 21,0
+level3.snd = 21,0
+
+;-----------------------------------------------------------
+
+[Face]
+;Player 1
+p1.pos    = 18,27
+p1.bg.spr = 50,0
+p1.face.spr = 9000,0
+p1.face.facing = 1
+p1.face.offset = 0,10
+;Player 2
+p2.pos    = 301,27
+p2.bg.spr = 50,0
+p2.bg.facing = -1
+p2.face.spr = 9000,0
+p2.face.facing = -1
+p2.face.offset = 0,10
+
+[Simul Face]
+;Player 1
+p1.pos    = 18,27
+p1.bg.spr = 60,0
+p1.face.spr = 9000,0
+p1.face.scale = 0.5,1
+p1.face.facing = 1
+p1.face.offset = 0,10
+;Player 2
+p2.pos    = 289,27
+p2.bg.spr = 60,0
+p2.bg.facing = -1
+p2.face.spr = 9000,0
+p2.face.scale = 0.5,1
+p2.face.facing = -1
+p2.face.offset = 0,10
+;Player 3
+p3.pos    = 19,27
+p3.face.spr = 9000,0
+p3.face.scale = 0.5,1
+p3.face.facing = 1
+p3.face.offset = 11,10
+;Player 4
+p4.pos    = 290,27
+p4.bg.facing = -1
+p4.face.spr = 9000,0
+p4.face.scale = 0.5,1
+p4.face.facing = -1
+p4.face.offset = 11,10
+
+[Turns Face]
+;Player 1
+p1.pos    = 18,27
+p1.bg.spr = 50,0
+p1.face.spr = 9000,0
+p1.face.facing = 1
+p1.face.offset = 0,10
+p1.teammate.pos = 17,37
+p1.teammate.spacing = 8,0
+p1.teammate.bg.spr = 70,0
+p1.teammate.ko.spr = 71,0
+p1.teammate.face.spr = 9000,0
+p1.teammate.face.scale = 0.3,1
+p1.teammate.face.facing = 1
+p1.teammate.face.offset = 1,0
+;Player 2
+p2.pos    = 301,27
+p2.bg.spr = 50,0
+p2.bg.facing = -1
+p2.face.spr = 9000,0
+p2.face.facing = -1
+p2.face.offset = 0,10
+p2.teammate.pos = 303,37
+p2.teammate.spacing = -8,0
+p2.teammate.bg.spr = 70,0
+p2.teammate.bg.facing = -1
+p2.teammate.ko.spr = 71,0
+p2.teammate.ko.facing = -1
+p2.teammate.face.spr = 9000,0
+p2.teammate.face.scale = 0.4,1
+p2.teammate.face.facing = -1
+p2.teammate.face.offset = -1,0
+
+;-----------------------------------------------------------
+
+[Name]
+p1.pos = 16,35
+p1.name.font = 6,0, 1
+p2.pos = 303,35
+p2.name.font = 6,0, -1
+
+;-----------------------------------------------------------
+
+[Simul Name]
+p1.pos = 14,11
+p1.name.font = 3,0, 1
+p2.pos = 305,11
+p2.name.font = 3,0, -1
+p3.pos = 138,11
+p3.name.font = 3,0, -1
+p4.pos = 181,11
+p4.name.font = 3,0, 1
+
+[Turns Name]
+p1.pos = 14,10
+;p1.bg. =
+p1.name.font = 3,0, 1
+;p2.bg. =
+p2.pos = 305,10
+p2.name.font = 3,0, -1
+
+[Time]
+pos = 160,25
+
+counter.offset = 0,0
+counter.font = -1,-1, -1
+framespercount = 60
+
+;-----------------------------------------------------------
+[Combo]
+pos = 10,123         	;Coords to show
+start.x = -100       	;Starting x-coords
+counter.font = 5,0
+counter.shake = 1   	;Set to 1 to shake count on hit
+text.text = H   	;You can use %i to show count in the text, eg "%i Hit!"
+text.font = 5,0
+text.offset = 3,0   	;Offset of text
+displaytime = 90    	;Time to show text
+;-----------------------------------------------------------
+
+[Round]
+match.wins = 2
+start.waittime = 30
+
+round.time = 0
+round.default.offset = 160, 100
+round.default.anim = 84
+round.default.layerno = 2
+round1.snd = 0,1
+round2.snd = 0,1
+round3.snd = 0,1
+round.sndtime = 0
+
+fight.time = 0
+fight.offset = 0, 110
+fight.anim = 80
+fight.snd = 1,0
+fight.sndtime = 0
+
+ctrl.time = 30
+
+KO.time    = 0
+KO.offset  = 160, 120
+KO.anim    = 82
+KO.snd     = 2,0
+
+DKO.offset = 160, 120
+DKO.anim    = 83
+DKO.snd    = 2,1
+
+TO.offset  = 160, 120
+TO.anim    = 85
+TO.snd     = 2,2
+
+KO.sndtime = 0
+slow.time  = 60
+over.waittime = 45
+over.hittime = 10
+over.wintime = 45
+over.time = 210
+win.time = 60
+win.offset = 160, 90
+win.font = 7,0
+win.text = %s Wins!
+win.displaytime = 540
+win2.offset = 160, 90
+win2.font = 7,0
+win2.text = %s and %s Wins!
+win2.displaytime = 540
+draw.offset = 160, 100
+draw.anim    = 86
+;draw.snd     = 2,2
+
+;-----------------------------------------------------------
+
+[WinIcon]
+p1.pos = 60,59
+p2.pos = 260,59
+p1.iconoffset = 18,0
+p2.iconoffset = -18,0
+;p1.counter.offset = 0,0
+;p1.counter.font = 2,1
+;p2.counter.offset = 0,0
+;p2.counter.font = 2,1
+p1.n.spr = 100,0
+p2.n.spr = 100,0
+p1.s.spr = 101,0
+p2.s.spr = 101,0
+p1.h.spr = 102,0
+p2.h.spr = 102,0
+p1.throw.spr = 103,0
+p2.throw.spr = 103,0
+p1.c.spr = 104,0
+p2.c.spr = 104,0
+p1.t.spr = 105,0
+p2.t.spr = 105,0
+p1.suicide.spr = 106,0
+p2.suicide.spr = 106,0
+p1.teammate.spr = 107,0
+p2.teammate.spr = 107,0
+p1.perfect.spr = 110,0
+p2.perfect.spr = 110,0
+useiconupto = 4
+
+;"Ready" Animation
+[Begin Action 84]
+80,4, 0,-100, 2
+80,4, 0,-95, 1
+80,4, 0,-90, 1
+80,4, 0,-85, 1
+80,4, 0,-80, 1
+80,4, 0,-75, 1
+80,4, 0,-70, 1
+80,4, 0,-65, 1
+80,4, 0,-60, 1
+80,4, 0,-55, 1
+80,4, 0,-50, 1
+80,4, 0,-45, 1
+80,4, 0,-40, 1
+80,4, 0,-35, 1
+80,4, 0,-30, 1
+80,4, 0,-25, 1
+80,4, 0,-20, 1
+80,4, 0,-15, 1
+80,4, 0,-10, 1
+80,4, 0,-5, 1
+80,4, 0,0, 1
+80,4, 0,5, 1
+80,4, 0,10, 1
+80,4, 0,15, 1
+80,4, 0,20, 1
+80,4, 0,25, 1
+80,4, 0,35, 3
+80,4, 0,30, 2
+80,4, 0,25, 1
+80,4, 0,20, 40
+80,4, 0,10, 1
+80,4, 0,0, 1
+80,4, 0,-10, 1
+80,4, 0,-20, 1
+80,4, 0,-30, 1
+80,4, 0,-40, 1
+80,4, 0,-50, 1
+80,4, 0,-60, 1
+80,4, 0,-70, 1
+80,4, 0,-80, 1
+80,4, 0,-90, 1
+80,4, 0,-100, 1
+
+;"Fight!" Animation
+[Begin Action 80]
+80,0, 0,0, 1
+80,0, 10,0, 1
+80,0, 20,0, 1
+80,0, 30,0, 1
+80,0, 40,0, 1
+80,0, 50,0, 1
+80,0, 60,0, 1
+80,0, 70,0, 1
+80,0, 80,0, 1
+80,0, 90,0, 1
+80,0, 100,0, 1
+80,0, 110,0, 1
+80,0, 120,0, 1
+80,0, 130,0, 1
+80,0, 140,0, 1
+80,0, 150,0, 1
+80,0, 160,0, 1
+80,0, 170,0, 1
+80,0, 175,0, 3
+80,0, 170,0, 2
+80,0, 165,0, 1
+80,0, 160,0, 45
+80,0, 170,0, 1
+80,0, 180,0, 1
+80,0, 190,0, 1
+80,0, 200,0, 1
+80,0, 210,0, 1
+80,0, 220,0, 1
+80,0, 230,0, 1
+80,0, 240,0, 1
+80,0, 250,0, 1
+80,0, 260,0, 1
+80,0, 270,0, 1
+80,0, 280,0, 1
+80,0, 290,0, 1
+80,0, 300,0, 1
+80,0, 310,0, 1
+80,0, 320,0, 1
+80,0, 330,0, 1
+80,0, 340,0, 1
+80,0, 350,0, 1
+
+; K.O. Animation
+[Begin Action 82]
+80,2, 0,0, 7,,A
+80,2, 0,0, 7,,A1
+80,2, 0,0, 15
+80,3, 0,0, 120
+80,3, 0,-10, 1
+80,3, 0,-20, 1
+80,3, 0,-30, 1
+80,3, 0,-40, 1
+80,3, 0,-50, 1
+80,3, 0,-60, 1
+80,3, 0,-70, 1
+80,3, 0,-80, 1
+80,3, 0,-90, 1
+80,3, 0,-100, 1
+80,3, 0,-110, 1
+80,3, 0,-120, 1
+
+" D.K.O. Animation
+[Begin Action 83]
+80,1, 0,0, 5,,A
+80,1, 0,0, 5,,A1
+80,1, 0,0, 5,,A
+80,1, 0,0, 5,,A1
+80,1, 0,0, 200
+80,1, 0,0, 5,,A1
+80,1, 0,0, 5,,A
+80,1, 0,0, 5,,A1
+80,1, 0,0, 5,,A
+
+; Time over animation
+[Begin Action 85]
+80,6, 0,0, 4,,A
+80,6, 0,0, 4,,A1
+80,6, 0,0, 4,,A
+80,6, 0,0, 4,,A1
+80,6, 0,0, 90
+80,6, 0,0, 4,,A1
+80,6, 0,0, 4,,A
+80,6, 0,0, 4,,A1
+80,6, 0,0, 4,,A
+
+; Draw game animation
+[Begin Action 86]
+-1,-1, 0,0, 30
+80,7, 0,0, 5,,A
+80,7, 0,0, 5,,A1
+80,7, 0,0, 5,,A
+80,7, 0,0, 5,,A1
+80,7, 0,0, 60
+80,7, 0,0, 5,,A1
+80,7, 0,0, 5,,A
+80,7, 0,0, 5,,A1
+80,7, 0,0, 5,,A
+
+[Begin Action 87]
+80,8, 0,0, 30

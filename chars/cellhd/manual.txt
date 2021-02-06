@@ -1,0 +1,249 @@
+-----------------------------------------------------------------------
+Perfect Cell 110%  por Ssonic 30/09/2000 *Maximize esse notepad
+-----------------------------------------------------------------------
+
+* comentários
+* novidades
+* próximas Atualizações
+* profiles
+* siglas e golpes
+* Fly Mode
+* como ver o final?
+* especiais
+* supers
+* contato
+* créditos
+
+-----------------------------------------------------------------------
+                             Comentários
+-----------------------------------------------------------------------
+
+Atualização com todos golpes da Hyper dimension e algums extras, mas ele
+vai ter muito + coisas originais. esse tem uma intro teste com a androide
+18 do _Vision a um final muito massa. falta por + sons que eu vou tentar
+ripar da hyper dimension, mas nada que atrapalhe
+
+
+-----------------------------------------------------------------------
+                             Novidades
+-----------------------------------------------------------------------
+
+* sprites requeridos
+* fly mode
+* golpes in fly mode
+* final
+* 2 win poses
+* algumas vozes
+* Throw
+* KI power UP
+* Power attack
+* Cell jr. Attack
+* Cell Combo
+* Levitantion Slicer
+* Negative Arrow
+* Energy Release
+* Giga Shoulder
+* Energy Dan
+* Katsuu Enegy Dan 
+* Kamehame Ha
+* Cho Kamehame Ha 
+* Giga Cell Combination
+* Giga Burn
+* Hyper Kamehame Ha
+
+-----------------------------------------------------------------------
+                        Próximas Atualizações
+-----------------------------------------------------------------------
+
+Todas as idéias que o Dayerat me passou. 
+
+-----------------------------------------------------------------------
+                             Profiles
+-----------------------------------------------------------------------
+Cell
+
+Name - Cell
+Race - Android
+Gender - Male
+age - 2-4 years
+Hair - None
+eyes - Green
+status - Android with cells of Nameks, Saiyans, & Freeza's race
+like - To fight
+dislikes - Goku
+          
+anime - Dragon Ball Z
+
+  Description
+
+
+ Cell is an android made by Dr. Gero, that was programmed to kill the androids #16, #17,
+and #18, as well as Goku. He was sent to kill the other andriods because they killed Dr. Gero.,
+and he was sent to kill Goku because he single handedly destroyed Red Ribon as a boy. Cell has 3
+forms, and he changes by absorbing people. He was killed by Gohan. 
+
+-----------------------------------------------------------------------
+                          Siglas e Golpes
+-----------------------------------------------------------------------
+
+      UB  U  UF     Z =            Y= soco fraco  X= chute fraco 
+        \ | /        
+     B ---o--- F 
+        / | \       C =            B= soco forte  A= Chute forte
+      DB  D  DF
+
+
+Start = KI power up
+
+* obs: esse é o esquema de como é meu controle.
+
+Cores 
+
+Z = ainda vou fazer essa
+Y = marron
+X = azul
+C = vermelho (flamengo)
+B = original 2
+Y = original
+
+
+-----------------------------------------------------------------------
+                             Fly Mode
+-----------------------------------------------------------------------
+
+ No fly mode voçê pode combater no ar sem ser derrubado, a não ser por
+golpes que jogam voçê longe, mas golpes que normais sem air.fall e fall
+não o derrubam.
+
+Todos os golpes com ( Fly mode ) pode ser feitos no chão ou vôo
+
+All moves in (fly mode) only in fly mode or ground
+
+-----------------------------------------------------------------------
+                         Como Ver o Final?
+-----------------------------------------------------------------------
+
+ Muito simples apenas termine o Jogo com o Cell no Arcade mode ou Team
+Battle com ele como ajudante ou voçê mesmo jogando com ele, mas para ver
+os todos quadros do final faça o seguinte.
+
+Vá na pasta /DATA do Mugen abra o arquivo system.def, e lá no final do
+arquivo voçê vai ver essa linha ae, remova a palavra Congratulations 
+ficando assim e aumentando o pose.time = 300 para 800. pronto
+
+
+---------------------------------------------------------------------
+modo padrão do Mugen
+
+Win screen definition
+This is the screen that is shown when you win in arcade mode.
+[Win Screen]
+wintext.text = Congratulations
+wintext.font = 2,0,0
+wintext.offset = 159,70
+wintext.displaytime = -1
+wintext.layerno = 2
+fadein.time = 32
+pose.time = 300
+fadeout.time = 64
+
+
+---------------------------------------------------------------------
+Para ver o final do Cell Certo
+
+Win screen definition
+This is the screen that is shown when you win in arcade mode.
+[Win Screen]
+wintext.text = 
+wintext.font = 2,0,0
+wintext.offset = 159,70
+wintext.displaytime = -1
+wintext.layerno = 2
+fadein.time = 32
+pose.time = 800
+fadeout.time = 64
+
+-----------------------------------------------------------------------
+                             Especiais
+-----------------------------------------------------------------------
+
+* throw = F + (b) ( close ou perto )
+ 
+* Fly Mode = (y+x) ( no ar ou chão)
+
+* KI power Up = segure (Start) ( Fly mode )
+
+* Power Attack = D, DF, F + (b)
+
+* Cell jr. Attack = F, B, F + (x) ou (a)  
+
+* Cell Combo = D, DB, B + (b)
+
+* Levitation Slicer = D, DB, B + (y)
+
+* Negative arrow = D, DB, B + (y) (no pulo)
+
+* Energy Release = (a+b) obs: também destroe magias
+
+* Giga Shoulder =  F + (y+b) ou B + (y+b)
+
+* energy dan = D, DF, F + (y) (fly Mode)
+
+* energy dan reto no fly = D, DB, B + (y) (fly Mode)
+
+* Katssuu Energy Dan = F, B, F + (y) (Fly Mode)
+
+* KameHame ha = D, DF, F + (x) ou (a) (Fly Mode)
+
+* Cho Kamehame Ha = D, DB, B, F + (x) ou (a) (Fly Mode)
+
+
+-----------------------------------------------------------------------
+                               Supers
+-----------------------------------------------------------------------
+(Level 1 Supers)
+
+* Hyper Kamehame Ha = D, DF, F + (y+b) ( Fly Mode)
+
+
+
+
+(Meteors Attacks Level 1)
+
+* Giga Cell Combination = F, B, F, B, F + (y) ou (b)
+
+* Giga Burn = D, DB, B, F + (y) ou (b)
+
+
+-----------------------------------------------------------------------
+                              Contato
+-----------------------------------------------------------------------
+
+Se encotrarem Bugs me avisem para que eu possa corrigir.
+
+Email - pizzashaaa@bol.com.br ou fale comigo nos canais 
+
+#MUGEN, #mugenland, #mugenmania, #mugen4ever da Brasnet. 
+
+Sites - www.ssonic.hpg.com.br
+        mugenow.cjb.net
+
+
+-----------------------------------------------------------------------
+                              Créditos
+-----------------------------------------------------------------------
+
+"Dayerat" por ser Beta Tester e dar várias idéias
+"Emuboarding" por me ensinar a parada do Final e pelas fotos cedidas
+"Overmind" por fazer um novo código de Final
+"Power_Z" por algums fotos
+
+E a Toda galera do canal #mugen e do Forum Mugen Eleven
+
+
+
+
+
+
+
+

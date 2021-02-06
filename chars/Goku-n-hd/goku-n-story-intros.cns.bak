@@ -1,0 +1,629 @@
+; Goku Normal HD Intro Story Line File
+; Intro Sotory Line by EB
+
+;intro
+[Statedef 190]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 190, 1] ;If opponent is Vegeta's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Vegeta Normal 2 by EB"
+;trigger2 = P4Name = "Vegeta Normal 2 by EB"
+trigger3 = P2Name = "vegeta-n-3 by EmuBoarding"
+;trigger4 = P4Name = "vegeta-n-3 by EmuBoarding"
+value = 150009
+
+[State 190, 1] ;If opponent is Vegeta SS4
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Vegeta Super Sayjin 4 by EB and BS"
+;trigger2 = P4Name = "Vegeta Super Sayjin 4 by EB and BS"
+value = 150010
+
+[State 190, 1] ;If opponent is Majin Vegeta's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Vegeta by OverMind"
+;trigger2 = P4Name = "Vegeta by OverMind"
+value = 150007
+
+[State 190, 1] ;If opponent is Trunk's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Trunks por ssonic"
+;trigger2 = P4Name = "Trunks por ssonic"
+trigger2 = P2Name = "N-Trunks by EmuBoarding"
+;trigger4 = P4Name = "N-Trunks by EmuBoarding"
+value = 193
+
+[State 190, 1] ;If opponent is Kuririn
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Kuririn by EmuBoarding"
+;trigger2 = P4Name = "Kuririn by EmuBoarding"
+value = 150006
+
+[State 190, 1] ;If opponent is Freeza's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "freeza"
+trigger2 = P2Name = "Freeza by OverMind"
+;trigger3 = P4Name = "freeza"
+;trigger4 = P4Name = "Freeza by OverMind"
+value = 150002
+
+[State 190, 1] ;If opponent is Broli
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Broli Remix ver1.2"
+trigger2 = P2Name = "Broli"
+;trigger3 = P4Name = "Broli Remix ver1.2"
+;trigger4 = P4Name = "Broli"
+value = 150003
+
+[State 190, 1] ;If opponent is Cell's
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Cell por Ssonic"
+trigger2 = P2Name = "perfect cell by _Vision"
+;trigger3 = P4Name = "Cell por Ssonic"
+;trigger4 = P4Name = "perfect cell by _Vision"
+value = 150004
+
+[State 190, 1] ;If opponent is Mystic Gohan
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Mystic Gohan by Zero_X"
+;trigger3 = P4Name = "Mystic Gohan by Zero_X"
+value = 150005
+
+[State 190, 1] ;If opponent is Piccolo
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Piccolo por Ssonic"
+;trigger2 = P4Name = "Piccolo por Ssonic"
+value = 150008
+
+[State 190, 1] ;If opponent is Goku SSJ4 
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Goku SSJ4 by _Vision and MRP"
+;trigger2 = P4Name = "Goku SSJ4 by _Vision and MRP"
+value = 150011
+
+[State 190, 1] ;If opponent is Goku SSJ2
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Goku Super Sayajin 2 by ribeiro"
+;trigger2 = P4Name = "Goku Super Sayajin 2 by ribeiro"
+value = 150012
+
+[State 190, 1] ;If opponent is Raditz
+type = ChangeState
+triggerall = Time = 0
+trigger1 = P2Name = "Raditz"
+;trigger2 = P4Name = "Raditz"
+value = 150013
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150001
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 100
+value = 0
+ctrl = 0
+
+;-----------------------------------------------------------
+
+;Intro contra o Trunks
+[Statedef 193]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,900]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 199
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 900
+ownpal = 1
+supermove = 1
+removetime = 900
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 900
+value = 0
+ctrl = 0
+
+;------------------------------------------------------------
+
+;Intro contra o Freeza's
+[Statedef 150002]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150002
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;----------------------------------------------------
+
+;Intro contra o Broli
+[Statedef 150003]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150003
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;----------------------------------------------------
+
+;Intro contra o Cell's
+[Statedef 150004]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150004
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;----------------------------------------------------
+
+;Intro contra o Mystic Gohan
+[Statedef 150005]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,280]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150005
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;----------------------------------------------------
+
+;Intro contra o Kuririn
+[Statedef 150006]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,340]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150006
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;----------------------------------------------------
+
+;Intro contra o Majin Vegeta
+[Statedef 150007]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,340]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150007
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;---------------------------------------------------
+;Intro contra o Piccolo
+[Statedef 150008]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,400]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150008
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;Intro contra o Vegeta's
+[Statedef 150009]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,340]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150009
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;Intro contra o Vegeta SSJ4
+[Statedef 150010]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,280]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150010
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 600
+ownpal = 1
+supermove = 1
+removetime = 600
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 500
+value = 0
+ctrl = 0
+
+;-------------------------------------------------
+
+;Intro contra o Goku ssj4
+[Statedef 150011]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,680]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150011
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 900
+ownpal = 1
+supermove = 1
+removetime = 900
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 900
+value = 0
+ctrl = 0
+
+;-----------------------------------------------------
+
+;Intro contra o Goku ssj2
+[Statedef 150012]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,680]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150012
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 900
+ownpal = 1
+supermove = 1
+removetime = 900
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 900
+value = 0
+ctrl = 0
+
+;------------------------------------------------------
+
+;Intro contra o Raditz
+[Statedef 150013]
+type = S
+ctrl = 0
+anim = 190
+velset = 0,0,0
+
+[State 190, begin]
+type = AssertSpecial
+trigger1 = time = [0,640]
+flag = intro
+
+[State 3000,MBS]
+type = explod
+trigger1 = AnimElem = 1
+anim = 150012
+facing = 1
+pos = 10,67
+postype = left
+sprpriority = 1;-2
+bindtime = 900
+ownpal = 1
+supermove = 1
+removetime = 900
+
+[State 400, 1]
+type = PlaySnd
+trigger1 = AnimElem = 2
+value = 0, 15
+
+[State 190, 3]
+type = changestate
+trigger1 = animtime = 900
+value = 0
+ctrl = 0
+

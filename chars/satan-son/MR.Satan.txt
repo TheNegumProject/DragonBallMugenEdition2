@@ -1,0 +1,28 @@
+If you just bought this character or "MUGEN" from any body then 
+you just got ripped off big time. This and MUGEN as
+far as WE know is all free to be distributed from the net.
+Go here for the website: www.elecbyte.com
+
+To find US go here: http://www.crosswinds.net/~kaiof95/Mugen.html
+------------------------------------------------------
+MR. Satan 1.0
+
+ReleaseDate: 9/11/00
+
+This is an Beta version so he is almost
+complete but is still missing  his final Attacks.
+-----------------------------------------------------
+
+Rising Knee - F, D, F, b
+Rising Double Slash Kick - B, D, B, b
+Dash Punch - D, F, x
+Uppercut - F, x
+UpperSlash - F, y
+Air Mutilation Kick - D, B, a (air)
+Multi Roundhouse - D, B, a
+Multi Kick - F, D, a
+Super Kick - D, B, a (during Multi Kick)
+Air Slash Punch - D, y (air)
+*Final Punch - D, F, x+y
+
+

@@ -1,0 +1,31 @@
+; Vegeta Normal 2 (1.1) def file 
+; by EmuBoarding
+; http://www.mugenow.cjb.net
+; The Best Original DBZ Characters
+
+[Info]
+name = "Vegeta Normal 2 by EB"
+displayname = "Vegeta Normal 2"
+author = "EmuBoarding-MugeNow"     
+pal.defaults =1,2
+
+[Files]
+cmd      = vegeta-n-2.cmd     
+cns      = vegeta-n-2.cns     
+st       = vegeta-n-2.cns     
+stcommon = common1.cns   
+sprite   = vegeta-n-2.sff      
+anim     = vegeta-n-2.air      
+sound    = vegeta-n2.snd
+pal1     = vegeta-1.act
+pal2     = vegeta-2.act
+pal3     = vegeta-3.act
+pal4     = vegeta-1.act
+pal5     = vegeta-2.act
+pal6     = vegeta-3.act         
+pal7     = vegeta-ssj.act         
+pal8     = vegeta-ssj-2.act       
+pal9     = vegeta-ssj-3.act
+pal10    = vegeta-ssj.act 
+pal11    = vegeta-ssj-2.act
+pal12    = vegeta-ssj-3.act

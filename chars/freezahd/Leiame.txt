@@ -1,0 +1,69 @@
+Freeza 99,9% do Hyper Dimension por OverMind
+M.U.G.E.N OverMind - http://overmindbr.cjb.net ou http://overmindbr.hypermart.net
+---------------------------------------------------------------------------------
+Novidades:
+- Mais efeitos de sombra
+- Todos Supers, menos o Bomb Grip podem ser executados durante o voa. :)
+- Bug de golpes no Voa concertado.
+Especiais:
+- Agarrão com rabo
+- Voadora Aerea
+- Cotovelada
+- Sequencia
+Supers:
+- Mega Evil Energy Ball
+- Bomb Grip (Golpe que ele deu no Kurilin :), não esqueça de dizer adeus ao seu 
+migo antes de dar esse golpe. :])
+---------------------------------------------------------------------------------
+Na proxima versão:
+Colocarei um sangue mais decente na hora que o inimigo explodir no 
+Bomb Grip. :)
+E talvez lance um CMD alternativo com uns comandos mais complicados. :]
+---------------------------------------------------------------------------------
+Golpes Basicos:
+
+A - 
+B -  
+C - 
+D - 
+Y+X - Zanzoken
+A+B - Voa
+Fwd + B - Agarrão com Rabo
+Start - Carregamento
+---------------------------------------------------------------------------------
+Golpes Especiais:
+
+Magia  - (/,A) - Baixo,Frente A 
+Ground Firebal - (\,A) - Baixo,Tras A
+Freeza Cutter - (\,Y) - Baixo,Tras Y
+Death Ball - (\,X) - Baixo,Tras X 
+Kienzam - (Fwd,/,B) - Frente,Baixo,Frente B 
+Kishin Ha - (Fwd,/,X) - Frente,Baixo,Frente X
+Elbow Attack (cotovelada) - (Fwd,/,Y) - Frente,Baixo,Frente Y
+Voadora Aerea - (Fwd,/,B) - Frente, Baixo, Frente B (Ar)
+Sequencia - (/,B) - Baixo,Frente B
+---------------------------------------------------------------------------------
+Supers:
+Freeza Rush - (\,X+Y) - Baixo,Tras  X+Y - Level 2 de Super
+Mega Energy Evil - (/,A+B) - Baixo,Frentes  A+B - Level 2 de Super (Ar)
+Malign Kienzam - (/,X+Y) - Baixo,Frente  X+Y - Level 1 de Super 
+Bomb Grip - (\,Fwd,X+Y) - Baixo, Tras, Frente X+Y - Level 3 de Super e bye bye pro seu inimigo
+---------------------------------------------------------------------------------
+Sugestões??? Bugs???  : overmind@brfree.com.br
+---------------------------------------------------------------------------------
+Links:
+M.U.G.E.N OverMind - http://overmindbr.cjb.net ou http://overmindbr.hypermart.net
+M.U.G.E.N Games - http://www.mugengames.com
+M.U.G.E.N World - http://www.mugenworld.com
+M.U.G.E.N DbZ   - http://mugendbz.virtualave.net/
+----------------------------------------------------------------------      
+Agradecimentos:
+ElecByte - Por criar esse ótimo engine de luta que é o M.u.g.e.n. :)
+Bandai - Por ter criado esse ótimo jogo de luta que é o Dbz Hyper Dimension.
+Ssonic - Por ter me ensinado, um monte coisas. :)
+Dayerat - Dar ideias e testador. :)
+-----------------------------------------------------------------------
+Desejo a vc uma boa diversão! :)
+-----------------------------------------------------------------------
+Se vc não gostou! Dane-se!!!!!! :þ
+-----------------------------------------------------------------------

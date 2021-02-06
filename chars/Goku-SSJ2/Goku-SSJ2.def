@@ -1,0 +1,22 @@
+[Info]
+name = "Goku Super Sayajin 2 by ribeiro"
+displayname = "Goku SSJ2"
+author = "ribeiro"
+pal.defaults =1,2
+
+[Files]
+cmd      = gokuhd.cmd
+cns      = gokuhd.cns
+st       = gokuhd.cns
+st2      = basico.cns
+st3      = especiais.cns
+st4      = magias.cns
+st5      = supers.cns
+st6      = helpers.cns
+st7      = story.cns
+stcommon = common.cns
+sprite   = gokuhd.sff
+anim     = gokuhd.air
+sound    = gokuhd.snd
+pal1     = goku-ssj2-1.act
+pal2     = goku-ssj2-2.act

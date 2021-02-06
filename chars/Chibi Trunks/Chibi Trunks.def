@@ -1,0 +1,19 @@
+; Chibi Trunks (1.0) def file 
+; by EmuBoarding
+; http://www.mugenow.cjb.net
+
+[Info]
+name    = "C-Trunks by EmuBoarding"
+displayname = "Chibi Trunks"
+pal.defaults =1,2
+
+[Files]
+cmd     = c-trunks.cmd     
+cns     = c-trunks.cns     
+st      = c-trunks.cns
+stcommon = common1.cns   
+sprite  = c-trunks.sff      
+anim    = c-trunks.air      
+sound   = c-trunks.snd
+pal1    = c-trunks.act             
+pal2    = c-trunks-2.act

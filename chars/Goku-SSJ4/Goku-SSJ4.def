@@ -1,0 +1,22 @@
+[Info]
+Name="Goku SSJ4 by _Vision and MRP"
+DisplayName="Goku SSJ4"
+Author="_Vision"
+Pal.Defaults=1,2
+
+[Files]
+cmd=gokussj4.cmd
+cns=gokussj4.cns
+st=gokussj4.cns
+st2=gokussj4-final.cns
+st3=gokussj4-story-intros.cns
+stcommon=common1.cns
+sprite=gokussj4.sff
+anim=gokussj4.air
+sound=gokussj4.snd
+pal1=gokussj4.act
+pal2=gokussj43.act
+pal3=gokussj44.act
+pal4=gokussj45.act
+pal5=gokussj46.act
+

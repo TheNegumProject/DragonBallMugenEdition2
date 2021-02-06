@@ -1,0 +1,64 @@
+Mr Boo 65% do Hyper Dimension por OverMind
+M.U.G.E.N OverMind - http://overmindbr.cjb.net ou http://overmindbr.hypermart.net
+---------------------------------------------------------------------------------
+Novidades:
+- Todos Golpes do Hyper Dimension menos o Meteor Attack, Agarrão, Become Candy e Hip Flip.
+---------------------------------------------------------------------------------
+Na proxima versão:
+Os golpes do HD que faltam e outras coisas mais :)
+---------------------------------------------------------------------------------
+Golpes Basicos:
+
+A - Raio
+X - Raio 
+B - Barrigada 
+Y - Bundada
+Y+X - Zanzoken (não implementado)
+A+B - Voa
+Start - Carregamento
+---------------------------------------------------------------------------------
+Golpes Especiais:
+------Hip Press
+baixo + B (no ar)
+------Planet Attack
+baixo, tras + B
+------Hip Flip (não implementado)
+baixo, frente + Y (durante o Planet Attack)
+------Tornado Hip
+baixo, trás, + Y
+------Become Candy (não implementado)
+(c) baixo, cima + B 
+------Flying Bomber (não implementado)
+L + R + B 
+------Kakusan Energy Dan
+trás, baixo, trás + X 
+------Boo Bomb
+baixo, tras + X
+------Mightness Bomber
+baixo, frente + A ou X 
+------*Boo Buster (não implementado)
+baixo, frente + Y + B 
+---------------------------------------------------------------------------------
+Supers:
+------Super Mightness Bomber (Nivel 1)
+baixo, tras, frente + A 
+---------------------------------------------------------------------------------
+Sugestões??? Bugs???  : overmind@brfree.com.br
+---------------------------------------------------------------------------------
+Links:
+M.U.G.E.N OverMind - http://overmindbr.cjb.net ou http://overmindbr.hypermart.net
+M.U.G.E.N Now      - http://mugenow.cjb.net
+M.U.G.E.N DbZ      - http://mugendbz.virtualave.net/
+----------------------------------------------------------------------      
+Agradecimentos:
+ElecByte - Por criar esse ótimo engine de luta que é o M.u.g.e.n. :)
+Bandai - Por ter criado esse ótimo jogo de luta que é o Dbz Hyper Dimension.
+Ssonic - Por ter me ensinado, um monte coisas. :)
+Dayerat - Dar ideias e testador. :)
+EmuBoarding - Por ter me falado pra criar esse char :)
+Toda a galera do canal #mugen da BrasNet
+-----------------------------------------------------------------------
+Desejo a vc uma boa diversão! :)
+-----------------------------------------------------------------------
+Se vc não gostou! Dane-se!!!!!! :þ
+-----------------------------------------------------------------------

@@ -1,0 +1,87 @@
++====================================================+
+|   _    _                    _    _		     |T
+|  | \__/ |_   _  ____  ____ | \  | | ___  _     _   |H
+|  |      | | | |/ ___|/ __ \|  \ | |/ _ \| |   | |  |E
+|  | |\/| | | | | |  _|  ___/| \ \| | | | | |/\\| |  |
+|  | |  | | |_| | |_| | |___ | |\ \ | |_| | / /\  |  |B
+|  |_|  |_|\____|\____|\____||_| \__|\___/|__/  |_|  |E
+|						     |S
+|  =============--- Dragon Ball Z ---==============  |T
+|  ============--- M.U.G.E.N. PAGE ---=============  | 
+| 						     |O
++====================================================+R
+| Dragon Ball Z - Personagens para o M.U.G.E.N.      |I
++====================================================+G
+| NOME: Cell Junior                                  |I
++====================================================+N
+| Autor: _Vision                                     |A
++====================================================+L
+| VERSÃO: 1.7 - 100% Final                           |
++====================================================+D
+| Data da Versão: 12 de Junlo de 2000                |B
++====================================================+Z
+| Produzido por _Vision                              |
+| Riped: _Vision                                     |C
+| Riped Game: Dragon Ball Z Fighting Game 2          |H
+| Sound Riped: _Vision   			     |A
+| Sound Game Riped: Dragon Ball Z Fighting Game 2    |R
+| Edição de Imagens: _Vision                         |A
+| Logos: EmuBoarding    		             |C
+| Emulador usado: ZSNes (The Best)		     |T
++====================================================+E
+| Agradecimentos: 				     |R
+| 					             |S
+| 1ª A Bandai por ter feito os jogos da série DBZ.   |
+| 2ª A Elecbyte (c)2000 por desenvolvimento do       |
+| incomparavel M.U.G.E.N.			     |
+| 3º kuzu-bei - Pelo movimento de vôo. 		     |
+| 4º Moyashi - Pelo belo Magin Vegeta, da onde tirei |
+| o kamehame-ha do kurilin.                          |
+| 5º Ao MR-Karai que me deu uma força! :) o unico!   | 			     
+| 6º E toda galera da MUGEN Eleven e do canal #mugen |
+| da Brasnet irc.brasnet.org /j #mugen :) 	     |			     
++====================================================+
+| Nossas HP's:       				     |
+| http://www.mugenow.cjb.net - MugeNow - Home Page   |
+| htt://www.mugenow.com - Link 2 for MugeNow HP      |
+| http://www.mugen11.com - Mugen Eleven - Home Page  |
++====================================================+
+| E-Mail da MugeNow: emuboarding@bol.com.br          |
+| Meu E-Mail: visioncb@bol.com.br                    |
++====================================================+
+| Como instalar???				     |
+|						     |
+| É Fácil, apenas descompacte os arquivos para a sua |
+| pasta "chars" com uma nova pasta "Chibi Trunks"    |
+| ex:                 				     |
+|	     				             |
+| "chars\Cell-j" 				     |
+|						     |			
+| depois entre na pasta "data" e edite o arquivo     |
+| "select.def" e em "[CHARACTERS]" adicione a linha: |				     |
+|						     | 
+| Cell-j, stages\????.def                            |
+|                                                    |
+| ou apenas				             |
+|                                                    |
+| Cell-j,        				     |
+|       		                             |
+| Depois salve as alterações! Veja se tudo ficou     |
+| assim!			                     |
+|                                                    |
+|----------------------------------------------------|
+| [CHARACTERS]                                       |
+|			                             |
+| Perfect Cell,                                      |
+| Cell Junior,                              	     |
+| Androide-18,                                       |
+| Freeza  ,                                          |
+|----------------------------------------------------|                                                    |
+| Fácil não? :)			  	             | 
+|----------------------------------------------------| 
+| Mugen RulezForever!!!!! :)			     |
+| Dragon Ball's RulezForever!!! :D 		     |
+| KOF '91 SuxForever!!! :|			     |
++=================================+==================+
+				  |TXT By EmuBoarding|
+				  +==================+	

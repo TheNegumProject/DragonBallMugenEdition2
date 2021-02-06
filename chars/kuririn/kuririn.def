@@ -1,0 +1,21 @@
+; Kurilin (FINAL) def file 
+; by EmuBoarding
+; http://www.mugenow.cjb.net
+
+[Info]
+name    = "Kuririn by EmuBoarding"
+displayname = "Kuririn"
+author = "EmuBoarding-MugeNow"     
+pal.defaults =1,2
+
+[Files]
+cmd     = kuririn.cmd     
+cns     = kuririn.cns     
+st      = kuririn.cns   
+stcommon = common1.cns   
+sprite  = kuririn.sff      
+anim    = kuririn.air      
+sound   = kuririn.snd
+pal1    = kuririn.act             
+pal2    = kuririn2.act   
+pal3    = kuririn3.act

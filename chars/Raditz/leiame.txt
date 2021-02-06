@@ -1,0 +1,113 @@
+Raditz - By Kakaroto
+
+Nesta Versão, Raditz possui:
+
+- 1 Intro
+- Movimentos básicos
+- Modo SSJ 
+- Alguns Sons
+- Especiais
+- 5 Supers
+- 1 Win
+- VEJA O FINAL DO ARQUIVO PARA SABER COMO INSTALAR O FINAL!!!!
+- STORY LINE
+- FLY (VÔO)
+-----------------------------------------------------------------------
+AGRADECIMENTOS ESPECIAIS:
+AO NECROMANCER POR ME ENCARREGAR DE FAZER O RADITZ E POR ADICIONAR O FLY PARA MIM!!!!
+-----------------------------------------------------------------------
+                               ESTÓRIA:
+Como vimos quando Trunks voltou do futuro, ele disse que existem várias dimensões de tempo paralelas e que mesmo que Goku não morresse do coração, ele ainda estaria morto no futuro de Trunks.
+Este Raditz é de uma destas dimensões!
+Em uma dimensão paralela, quando Raditz veio a Terra, ao enfrentar Picollo e Goku, Goku o segurou pelas costas para que Picollo aplicasse o golpe fatal. Mas em vez de esperar pelo golpe e implorar para viver (como vimos nesta dimensão), ele golpeu Goku que o soltou. Raditz escapa do golpe de Picollo que atinge Goku matando-o.
+Raditz então avisa que dentro de 1 ano seus "irmãos" sayajins viriam para a Terra ajudá-lo. Raditz então foge para os confins da Terra e contacta Vegeta e Napa pelo rastreador. 
+Raditz fica impressionado (e com ódio) da habilidade e do poder de luta que Goku e Picollo demonstraram, então, ele decide treinar para ficar mais forte e com a ajuda de Vegeta, derrotar Goku!
+Enquanto isso, tudo ocorre normalmente, Goku vai treinar com o Sr.Kaio, Picollo começa a treinar Gohan e os outros vão treinar com Kamisama.
+1 ano se passa e os sayajins chegam!!! Raditz detecta sua chegada mas não se junta a eles pois percebe que seu poder de luta ainda não havia atingido o esperado. Então Vegeta e Napa (que nem tomam conhecimento de Raditz) enfrentam todos. Goku derrota Napa e Vegeta (que foge para a base de Freeza).
+Tudo novamente ocorre normalmente (eles vão para Namekusei e Goku se transforma no Super Sayajin para enfrentar Freeza).
+Eles voltam para a Terra e têm de enfrentar os andróides e Cell em seu torneio!!!
+Durante todo este tempo, Raditz permaneceu treinando para ficar mais forte. Ele treinava em vulcões e dentro de oceanos congelados dos Pólos Norte e Sul e ainda não superava o poder de Goku (ele acompanhava o aumento da força dele com o rastreador) e não entendia como um guerreiro de classe baixa podia superar um de classe alta.
+
+Neste momento, ele treinava dentro de um vulcão e sua raiva é tamanha que ele explode todo seu poder provocando uma erupção no vulcão!!! Ele detêm toda lava com seu KI e percebe que seu poder está diferente!!! Que ele está mais forte. Ao voar por cima de uma lago, ele percebe algo estranho em si mesmo!!! Ele então vai até o chão e se olha no lago.
+Seu cabelo estava loiro, seus olhos verdes e sua massa muscular havia sofrido uma pequena alteração. Então ele percebe: "-Eu me transformei no Super Sayajin!!!!!!"
+
+Agora Raditz vai a procura de Goku para enfrentá-lo e fica sabendo de um tal Torneio de Artes Marcias (Tenkaichi Budoukai) e resolve se inscrever na esperança de encontrar Goku e testar seus novos poderes!!!
+
+Se conseguirá, só o tempo dirá!!!!
+
+-----------------------------------------------------------------------
+Comandos:
+
+a - soco fraco
+b - soco médio
+c - soco forte
+z - chute
+
+QCF - BAIXO, BAIXO-FRENTE, FRENTE
+FWD - FRENTE
+BWD - TRÁS
+QCB - BAIXO, BAIXO-TRÁS, TRÁS
+DWN - BAIXO
+HCF - TRÁS, BAIXO-TRÁS, BAIXO, BAIXO-FRENTE, FRENTE
+-----------------------------------------------------------------------
+
+Ainda tenho muito o que fazer para ele. Aqui estão os golpes:
+
+Fly Attack - Durante o pulo, QCF + b
+
+Fireball1 - QCF + c
+
+Fireball2 - QCB + c
+
+Fireball3 - QCB + x
+
+Ki Burn - QCF + x
+
+Ki Barrier (em desenvolvimento) - QCF + y
+
+Elbow Dash - FWD + b
+
+Combo Sequence - QCB + y
+
+Zanzouken - c+y (LEIA A SEÇÃO ZANZOUKEN PARA MAIS INFORMAÇÕES)
+
+SSJ TRANSFORM - QCF x 2 + a (com Level 3 Power Bar)
+
+Charge Power - a+b
+
+Fly - x+y
+-----------------------------------------------------------------------
+Supers:
+
+Fire Away - QCB, FWD + a  (com Level 1 Power Bar)
+
+Blast - QCB, FWD + b  (com Level 2 Power Bar)
+
+Renzoku Energy Dan - QCB, FWD + c  (com Level 1,5  Power Bar)
+
+Meteor Attack 1 (APENAS EM MODO SSJ) - QCB, HCF + z  (com Level 2,5 Power Bar) 
+
+Meteor Attack 2 (APENAS EM MODO SSJ) - QCB, HCF + x (with Level 3 Power Bar)
+-----------------------------------------------------------------------
+  SEÇÃO ZANZOUKEN:
+
+Como usar o Zanzouken: Depois de fazer o comando, Raditz entrará em um estado de "pre-zanzoken". Ele permanecerá assim por 1,10 segundos, dos quais ele permanecerá invulnerável por 1 segundo. Após o comando, você pode "direcionar" Raditz para onde ele deverá ir apertando:
+
+ FORWARD - ele irá para frente
+ BACKWARD - ele irá para trás
+ UP - ele irá para cima atrás do inimigo
+
+Se você não fizer nada, quando o tempo acabar, ele retornará ao normal.
+-----------------------------------------------------------------------
+  ADICIONANDO O FINAL: 
+É simples, entre na pasta DATA, abra o arquivo System.def em qualquer editor de texto, mande localizar (pesquisar) pela linha [Win Screen], depois substitua o código com este:
+
+[Win Screen]
+wintext.text = 
+wintext.font = 2,0,0
+wintext.offset = 159,70
+wintext.displaytime = -1
+wintext.layerno = 2
+fadein.time = 32
+pose.time = 10000
+fadeout.time = 64 

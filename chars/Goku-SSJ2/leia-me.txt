@@ -1,0 +1,119 @@
+MugeNow - http://www.mugenow.cjb.net or http://go.to/mugenow
+
++-----------------------------------------------------------------+
+| "|{[(</#=-+*:_ Goku Super Sayajin 2 - by Ribeiro _:*+-=#\>)]}|" |
+|                                                                 |
+| 		[ripado do jogo dbz hyper dimension (SNES)]	  |
+| 								  |
+| * = golpes que podem ser feitos durante o vôo			  |
+| 								  |
+| ====Golpes====						  |
+| 								  |
+| a - *Chute Fraco						  |
+| 								  |
+| b - *Chute Médio						  |
+| 								  |
+| c - *Chute Forte						  |
+| 								  |
+| x - *Soco Fraco						  |
+| 								  |
+| y - *Soco Médio						  |
+|								  |
+| z - *Soco Forte						  |
+| 								  |
+| ====Golpes Especiais====					  |
+|								  |
+| baixo, cima - Super Pulo					  |
+|								  |
+| baixo, cima-frente - Super Pulo para Frente			  |
+|								  |
+| baixo, cima-traz - Super Pulo para Traz			  |
+|								  |
+| y - *destroir fireballs					  |
+|								  |
+| baixo, baixo-traz, traz + y - *Finalizador de Combos Aéreos	  |
+| 								  |
+| baixo, baixo-frente, frente + y - *Iniciador de Combos Aéreos	  |
+| [aperte para cima para um super pulo]				  |
+| 								  |
+| a + b - *carregar						  |
+|								  |
+| a + b (no ar) - voar						  |
+|								  |
+| b + c - *Queima de Ki						  |
+|								  |
+| x + y - 3D Attack						  |
+|								  |
+| frente + b (perto) - arremesso				  |
+|								  |
+| frente + a - Chute Circular					  |
+|								  |
+| baixo, baixo-traz, traz + c - *Fireball			  |
+| 								  |
+| baixo, baixo-frente, frente + c - *Fireball Triplo		  |
+| 								  |
+| baixo, baixo-frente, frente + z - *Kamehameha			  |
+| [segure z para um Kamehameha mais forte (3 levels diferentes)]  |
+| 								  |
+| baixo, baixo-traz, traz + z - Kamehameha p/ cima		  |
+| 								  |
+| baixo, baixo-traz, traz + z (ar) - *Kamehameha p/ baixo         |
+| 								  |
+| baixo, baixo-traz, traz + b - *Combo de chutes		  |
+|								  |
+| frente, baixo-frente, baixo + a/b/c (no ar) - *Voadora	  |
+| 								  |
+| frente, baixo, baixo-frente, frente + b - *Joelhada		  |
+| 								  |
+| traz, baixo, baixo-traz, traz + a - *Teleporte p/ traz	  |
+| 								  |
+| traz, baixo, baixo-traz, traz + x - *Teleporte p/ frente	  |
+|								  |
+| ====Supers====						  |
+| 								  |
+| B, BT, T + a - *Kienzan					  |
+| (level 1/2)							  |
+| 								  |
+| B, BF, F + b - *Explosão de Ki				  |
+| (level 1)							  |
+| 								  |
+| B, BF, F + a - *Ataque de Fireballs				  |
+| (level 1)							  |
+| 								  |
+| T, BT, B, BF, F + x - *Kamehameha				  |
+| (level 2)							  |
+| 								  |
+| B, BF, F + x - Goku, Gohan, Goten Kamehameha			  |
+| (level 3)							  |
+| 								  |
+| x, x, F, a, z - Hiper Teletransporte				  |
+| (level 3) [é indefensável!!!] {faça depois de morto!!!}	  |
+| 								  |
+| B, BT, T + a - *Genki Dami					  |
+| (level 3) [é indefensável!!!]					  |
+| 								  |
+| T, BT, B, BF, F + z - Meteor Atack				  |
+| (level 3) [é indefensável!!!]					  |
++-----------------------------------------------------------------+
+
+#####################################################
+# Agradecimentos Especiais: criador do MCM	    #
+# Emuboarding por ter publicado o Goku e me ajudado #
+# OverMind pelo código do final			    #
+# Ssonic pelo Super Pulo			    #
+# Pedro Modrach pelas imagens do Goten		    #
+# Mr_Karai pelo seu tutorial			    #
+#####################################################
+
+allribeiro@hotmail.com
+
+por
+ ____   _ _   ____    _____  _ _   ____      _____
+|    \   |   |    \  |        |   |    \    /     \
+|     |  |   |     | |        |   |     |  |       |
+|     |  |   |     | |        |   |     |  |       |
+|____/   |   |____/  |____    |   |____/   |       |
+|\       |   |    \  |        |   |\       |       |
+| \      |   |     | |        |   | \      |       |
+|  \     |   |     | |        |   |  \     |       |
+|   \   _|_  |____/  |_____  _|_  |   \     \_____/

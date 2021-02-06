@@ -1,0 +1,22 @@
+; Yamcha def file 
+
+[Info]
+name = "Yamcha by Frank"
+displayname = "Yamcha"
+author = "Db Frank"     
+pal.defaults =1,2  
+
+[Files]
+cmd      = yamcha.cmd     
+cns      = yamcha.cns     
+st       = yamcha.cns     
+stcommon = common1.cns   
+sprite   = yamcha.sff      
+anim     = yamcha.air      
+sound    = yamcha.snd
+pal1= yamcha.act
+pal2= azul.act
+pal3= vermelho.act
+pal4= verde.act
+pal5= branco.act
+pal6= preto.act

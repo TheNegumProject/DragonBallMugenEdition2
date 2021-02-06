@@ -1,0 +1,207 @@
+;Dragon Ball Z M.U.G.E.N. Edition 2
+
+; BackGround - Montanhas 2
+; by Billy_Brother
+; E-Mail: billy_brother@bol.com.br
+; Mugen Eleven - http://www.mugen11.com
+; MugeNow - http://MugeNow.cjb.net
+; Riped: Dragon ball Z 2 - SNES
+; Próxima versão: Ajeitar os efeitos delta de todas essas partes da ;nuvem!!
+
+[Info]
+name = "Montanhas 2 - nevando"
+
+[Camera]
+startx = 0
+starty = 0
+boundleft = -625
+boundright = 625
+boundhigh = -256
+boundlow = 0
+verticalfollow = .7
+tension = 50
+
+[PlayerInfo]
+;--- Player 1 ---
+p1startx = -56          ;Starting x coordinates
+p1starty = 0            ;Starting y coordinates
+p1startz = 0            ;Starting z coordinates
+p1facing = 1            ;Direction player faces: 1=right, -1=left
+
+;--- Player 2 ---
+p2startx = 70
+p2starty = 0
+p2startz = 0
+p2facing = -1
+
+;--- Common ---
+leftbound  = -1000
+rightbound =  1000
+topbound  =  0
+botbound  =  0
+
+[Scaling]
+topz     = 0       ;Top z-coordinate for scaling
+botz     = 50      ;Bottom z-coordinate for scaling
+topscale = 1       ;Scale to use at top
+botscale = 1.2     ;Scale to use at bottom
+
+[Bound]
+screenleft = 15
+screenright = 15
+
+[StageInfo]
+zoffset   = 210
+autoturn  = 1
+
+[Shadow]
+color = 128,128,128
+yscale = .3
+
+[Music]
+bgmusic = sound/dbz-me-2-haunted.mid
+
+[BGdef]
+spr = stages/mont2-dbz2-nev.sff
+
+[BG 0]
+type  = normal
+spriteno = 2, 0
+layerno = 0
+start = 0, -300
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 1]
+type  = normal
+spriteno = 1, 1
+layerno = 0
+start = 0, 62
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 2]
+type  = normal
+spriteno = 1, 0
+layerno = 0
+start = 0, 134
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 3]
+type  = normal
+spriteno = 0, 0
+layerno = 0
+start = 0, 10
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 4]
+type  = normal
+spriteno = 0, 1
+layerno = 0
+start = 0, 6
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 5]
+type  = normal
+spriteno = 0, 2
+layerno = 0
+start = 0, -3
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 6]
+type  = normal
+spriteno = 0, 3
+layerno = 0
+start = 0, -135
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 7]
+type  = normal
+spriteno = 0, 5
+layerno = 0
+start = 0, -175
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 8]
+type  = normal
+spriteno = 0, 4
+layerno = 0
+start = 0, -160
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 9]
+type  = normal
+spriteno = 0, 6
+layerno = 0
+start = 0, -210
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 10]
+type  = normal
+spriteno = 0, 7
+layerno = 0
+start = 0, -230
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 11]
+type  = normal
+spriteno = 0, 8
+layerno = 0
+start = 0, -362
+delta = 1, 1
+trans = none
+mask  = 1
+tile  = 1
+
+[BG 12]
+type  = normal
+layerno = 1
+spriteno = 15,1,,A1
+start = 0, 0
+delta = 0, 0
+mask = 1
+tile = 1, 1
+layerno = 3
+velocity = -3, 2
+
+[BG 13]
+type  = normal
+layerno = 1
+spriteno = 15,1,,A1
+start = 0, 0
+delta = 0, 0
+mask = 1
+tile = 1, 1
+layerno = 3
+velocity = 3, 2

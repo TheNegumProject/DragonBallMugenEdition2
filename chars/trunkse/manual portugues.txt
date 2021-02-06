@@ -1,0 +1,225 @@
+-----------------------------------------------------------------------
+Trunks do Futuro com espada 100% Por Ssonic  18/11/2000 
+-----------------------------------------------------------------------
+
+* comentários
+* novidades
+* próximas Atualizações
+* profiles
+* siglas e golpes
+* especiais
+* supers
+* contato
+* créditos
+* atenção menores
+
+-----------------------------------------------------------------------
+                             Comentários
+-----------------------------------------------------------------------
+
+Como a Bandai não toma vergonha na cara e não coloca o trunks com espada
+em nenhum jogo então resolvi fazer esse char que é um dos meus preferidos
+depois do rock, essa versão está completa com muitos golpes e supers de 
+todos dos jogos originais e outros feitos por mim, espero que se divirtam
+como eu jogando com ele. Valeu a todos que esperaram pelas atualizações 
+sem reclamar isso realmente me deixa muito feliz porquê eu faço isso para
+que todos tenha uma personagem que garanta muita diversão.
+
+-----------------------------------------------------------------------
+                             Novidades
+-----------------------------------------------------------------------
+
+* KI Spark da DBZ UB22 PSX
+* novos sons e vozes
+* novos efeitos especiais 
+* Barra de power automática
+* Zanzoken controlavel
+* Meteor Combo ( DBZ 2 )
+* Meteor Combo ( DBZ genesis ) fix
+* Bakuhatsu HA ( DBZ genesis )
+* Masenko
+* Double Masenko
+* Critical Blade 
+* Final Rox
+
+-----------------------------------------------------------------------
+                        Próximas Atualizações
+-----------------------------------------------------------------------
+
+* Mais violência e sangue :P
+* ele vai corta realmente o frezza
+* + intros especiais
+
+-----------------------------------------------------------------------
+                             Profiles
+-----------------------------------------------------------------------
+Fighting Style:  
+Birthdate: 
+Birthplace: 
+Blood Type: 
+Height: cm
+Weight: kg	Hobby: 
+Favorite Food: 
+Favorite Sport: 
+Important Object:          
+Hates: 
+
+-----------------------------------------------------------------------
+                          Siglas e Golpes
+-----------------------------------------------------------------------
+
+      UB  U  UF          Z =       Y= soco fraco     X= chute fraco 
+        \ | /        
+     B ---o--- F 
+        / | \            C =       B= Espadada       A= chute forte
+      DB  D  DF
+
+Start = carregar KI
+
+* = golpes que podem ser feitos no voo
+
+-----------------------------------------------------------------------
+                             Especiais
+-----------------------------------------------------------------------
+
+ Throw = (perto) F + B  
+
+ Voar = X+Y (no chão ou ar)
+
+ super soco = (Y+B) OBS: se feito na defesa contra ataca, mas gasta 500 
+
+ Meteor Combo ( DBZ genesis ) = (X+A)
+
+ Meteor Combo ( DBZ 2 ) = B, D, DB + X
+
+*Zanzoken = (A+B) escolha F ou B ou U  
+ 
+*KI power = segure Start 
+
+ Bakuhatsu Ha = B, D, DB + Y ou B
+
+*fireball = D, DF, F + Y ou B
+
+*Triple Fireball = D, DB, B + Y ou B
+
+ Ground Fireball = F, B, F + Y ou B 
+
+*Seeker fireball = B, F, B + Y ou B
+
+ DBZ2 Combo = D, DB, B + X
+
+ DBZ3 Combo = D, DB, B + A 
+
+ Multi Slash = F, D, DF + Y
+
+ Dash Multi Slash = F, D, DF + B
+
+ Slide Attack = D, DF, F + X ou B
+
+*Vertical Kick = D, DF, F + X ou B ( no ar ou vôo )
+
+
+-----------------------------------------------------------------------
+                               Supers
+-----------------------------------------------------------------------
+
+(Level 1) (supers = power 1000)
+
+ Burner Attack = D, DB, B, F + Y ou B
+
+ Masenko = B, DB, D, DF, F + Y ou B
+
+ Critical Blade = D, DF, F + (Y+X)
+
+-----------------------------------------
+
+(level 1/5) (supers = power 1500)
+
+*Finish Buster = D, DF, F, B, + Y ou B ( seguravel e direcionavel )
+
+
+------------------------------------------
+
+(level 2) (supers = power 2000)
+
+ Final Slash = D, DF, F 2X + Y ou B
+
+ Super Multi Slash = D, DB, B + (Y+X)
+
+ Double Masenko = D, DB, B, F + X ou A
+
+------------------------------------------
+
+(level 3) (supers = power 3000)
+
+ Ultra Final Slash = D, DB, B 2X + Y ou B ( obs: diga adeus a seu inimigo )
+
+
+-----------------------------------------------------------------------
+                              Contato
+-----------------------------------------------------------------------
+Se encontrarem Bugs me avisem para que eu possa corrigir.
+
+Se encontrarem esse char em outra página ou cópia de golpes me avisem.
+
+
+Email - pizzashaaa@bol.com.br ou fale comigo nos canais 
+
+#Mugen, #mugenmania, #mugen4ever, #mugenland da Brasnet. 
+
+Sites - http://mugenow.cjb.net - "the best DBZ caracters by All Members"
+        http://www.mugen11.cjb.net - "the best Brazilian mugen page"
+        http://www.ssonic.hpg.com.br - is mine :p 
+        
+
+-----------------------------------------------------------------------
+                              Créditos
+-----------------------------------------------------------------------
+
+* "Gatcham" por me enviar o .sff com gráficos melhores. Thanks Very Much.
+
+* "Overmind" por aperfeiçoar o Vôo, para não cair se for atingido e o 
+código de final rlz.
+
+* "Dayerat" pelas idéias de golpes e Beta Tester.
+
+* "Fire_lord" Beta Tester.
+
+* "James_Dond" por me enviar a .gif que me deu ideia do Critical Blade.
+
+* E toda galera do #mugen por me ajudarem a achar umas fotos dele.
+
+-----------------------------------------------------------------------
+                           Atenção menores
+-----------------------------------------------------------------------
+
+Se você tem menos de 18 anos não jogue com esse char, peça a um adulto 
+que jogue junto com você, esse char possui golpes que exibem extrema 
+violência e tendências assassinas. Ou não jogue com ele na frente de 
+seu irmãozinho, ele pode ficar impressionado.
+
+PS: não sou responsável por qualquer influência que esse char possa causar 
+à pessoas que adoram imitar tudo, não saia por ai matando os outros. :P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oq vc veio ver aqui em baixo? vai jogar logo. :P
